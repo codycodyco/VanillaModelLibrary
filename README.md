@@ -1,77 +1,79 @@
 # VanillaModelLibrary
 
-**一个给 Minecraft 原版生物提供模型资源的 Paper 插件。**
+**A Paper plugin that provides 3D models of vanilla Minecraft mobs for other plugins to use.**
 
-它会把原版生物的**静态 3D 模型**安装到 [RP Engine](https://github.com/resourcepack-ai/rp-engine)，并提供接口，让其他插件找到并使用这些模型。
+VanillaModelLibrary installs a collection of **static mob models** into [RP Engine](https://github.com/resourcepack-ai/rp-engine) and exposes an API to find the right model for a mob.
 
-例如，想做一个“让原版生物跳舞”的插件，就可以通过 VanillaModelLibrary 找到对应生物的模型，再由跳舞插件负责动画。
+For example, a dancing-mobs plugin can use VanillaModelLibrary to get a mob's model, then handle the animation itself.
 
-> **注意：** 本插件是模型资源库，**不会直接让生物跳舞**，也不负责播放动画。
+> **Note:** This is a model library, **not an animation plugin**. Installing it won't make mobs dance on its own.
 
-## 它能做什么？
+## Features
 
-- **自动安装模型：** JAR 已内置适用于 Minecraft 26.2 的模型包（0.3.4），通常不需要手动下载资源。
-- **对接 RP Engine：** 把模型交给 RP Engine 管理；只有模型文件变化时才更新对应资源。
-- **识别生物外观：** 根据生物类型、年龄、颜色等信息，匹配模型包中已有的模型。
-- **提供开发接口：** 其他插件可以查询模型，并获取对应的 RP Engine 物品。
+- **Ready-to-use models:** Includes a model pack for Minecraft 26.2 (asset version 0.3.4). No separate model download is needed for a fresh installation.
+- **RP Engine integration:** Installs model assets automatically and updates them when needed.
+- **Appearance matching:** Finds models based on a mob's type and appearance, such as its age or color.
+- **Developer API:** Lets other plugins look up models and create their corresponding RP Engine items.
 
-目前只覆盖模型包中已支持的生物和外观，**并非所有原版生物都有可用模型**。
+Not every vanilla mob or appearance is supported yet.
 
-## 安装
+## Installation
 
-需要 **Paper 26.2、Java 25** 和前置插件 **RP Engine**（项目目前基于 RP Engine 0.2.20 构建）。
+**Requirements:** Paper 26.2, Java 25, and [RP Engine](https://github.com/resourcepack-ai/rp-engine). The plugin is currently built against RP Engine 0.2.20.
 
-1. 在服务器上安装 RP Engine。
-2. 把 `VanillaModelLibrary.jar` 放进服务器的 `plugins/` 文件夹。
-3. 重启服务器。插件会自动释放内置模型包，并安装到 RP Engine。
-4. 在游戏或控制台输入 `/vml status`，看到 `ready=true` 就表示模型库已就绪。
+1. Install RP Engine on your server.
+2. Place `VanillaModelLibrary.jar` in the `plugins/` folder.
+3. Restart the server. The bundled models will be installed automatically.
+4. Run `/vml status` in-game or from the console. **`ready=true`** means the library is ready to use.
 
-默认情况下，模型资源会保存在 `plugins/VanillaModelLibrary/assets/`，并安装到 `plugins/RPEngine/content/vanillamobs/`。
+By default, model packages are stored in `plugins/VanillaModelLibrary/assets/`, while the installed RP Engine content goes to `plugins/RPEngine/content/vanillamobs/`.
 
-想替换模型包？可以把新的模型 ZIP 或解压后的模型目录放进 `assets/`。如果同时放了多个版本，需要在 `config.yml` 的 `assets.package` 中指定要使用哪一个，然后执行 `/vml reload`。
+**Using your own model pack:** Place a compatible ZIP or extracted package in the `assets/` folder. If you have multiple packages, set `assets.package` in `config.yml` to select one, then run `/vml reload`.
 
-## 命令
+## Commands
 
-| 命令 | 用途 |
+| Command | Description |
 | --- | --- |
-| `/vml status` | 查看插件、模型包和 RP Engine 是否正常 |
-| `/vml reload` | 重新读取模型资源，必要时更新 RP Engine |
-| `/vml verify` | 检查模型包是否完整，不会重新安装 |
-| `/vml items` | 查看哪些模型已经注册到 RP Engine |
-| `/vml selftest` | 临时生成测试生物，检查模型匹配后删除 |
+| `/vml status` | Check the library and installed model pack |
+| `/vml reload` | Reload the model pack and update RP Engine if needed |
+| `/vml verify` | Check the model pack without installing it |
+| `/vml items` | List model IDs and their RP Engine item status |
+| `/vml selftest` | Spawn temporary test mobs, check model matching, and remove them |
 
-`/vml` 是 `/vanillamobs` 的简写。以上命令默认仅 OP 可用（权限：`vanillamobs.admin`）。
+`/vml` is an alias for `/vanillamobs`. Commands require OP by default (permission: `vanillamobs.admin`).
 
-## 给插件开发者
+## For developers
 
-VanillaModelLibrary 提供 Java API，可以根据实体当前外观查找模型：
+Use the Java API to find a model that matches a mob:
 
 ```java
+import dev.cody.vanillamobs.api.VanillaModelLibraryApi;
+
+// 'entity' is a Bukkit Entity.
 VanillaModelLibraryApi.get().ifPresent(api -> {
     if (!api.ready()) return;
 
     api.selectForDisplay(entity).ifPresent(selection -> {
-        String modelId = selection.modelId();
-        api.createItem(modelId).ifPresent(item -> {
-            // 将这个模型物品交给你的显示或动画逻辑
+        api.createItem(selection.modelId()).ifPresent(item -> {
+            // Use this item in your display or animation code.
         });
     });
 });
 ```
 
-- `selectForDisplay(entity)`：适合临时隐藏原版生物、改为显示完整自定义模型的场景（例如跳舞）。
-- `select(entity)`：严格按照生物的实时外观匹配。
-- `models()` / `model(id)`：查询模型列表和详细信息。
-- `observe(entity)`：获取生物外观信息。
+- `selectForDisplay(entity)` — Find a model for displaying the whole mob, such as in a dance animation.
+- `select(entity)` — Match the mob's current appearance more strictly.
+- `models()` / `model(id)` — Browse available model records.
+- `observe(entity)` — Read the mob's current appearance.
 
-找不到对应模型时会返回空结果，不会擅自用其他模型替代。
+If there is no suitable model, selection returns an empty result instead of guessing.
 
-## 从源码构建
+## Building from source
 
-使用 **JDK 25** 和 **Gradle**：
+Requires **JDK 25** and **Gradle**:
 
 ```bash
 gradle build
 ```
 
-构建好的 JAR 位于 `build/libs/`。
+The resulting JAR will be in `build/libs/`.
