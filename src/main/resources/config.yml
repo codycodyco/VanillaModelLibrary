@@ -1,0 +1,19 @@
+# Where the versioned VanillaModels package lives, relative to this plugin's
+# data folder. Drop the delivery ZIP there and it is extracted once, or put an
+# already-extracted dist/ folder there.
+assets:
+  directory: "assets"
+
+  # Leave empty to auto-detect the only package present. Set it when several
+  # versions sit side by side; nothing is ever chosen silently.
+  package: ""
+
+  # Copy validated files into plugins/RPEngine/content/vanillamobs. Only files
+  # whose SHA-256 differs are written.
+  auto-install: true
+
+  # Ask RP Engine to rebuild its packs when (and only when) content changed.
+  reload-rpengine: true
+
+  # Refuse to report ready unless every supported model ID is a live RP Engine ITEM.
+  verify-items: true

@@ -1,0 +1,5201 @@
+{
+  "minecraftVersion": "26.2",
+  "models": [
+    {
+      "conditions": {
+        "age": "adult",
+        "equipment": "none",
+        "headPitchDegrees": 0,
+        "headYawDegrees": 0,
+        "invisible": false,
+        "moving": false,
+        "pose": "standing",
+        "upsideDown": false,
+        "variant": "minecraft:allay"
+      },
+      "display": {
+        "offsetX": 0,
+        "offsetY": 0.001,
+        "offsetZ": 0,
+        "scale": 2.5,
+        "yawOffsetDegrees": 180
+      },
+      "entityType": "ALLAY",
+      "limitations": [
+        "Static snapshot of the official default render state; no animation, movement, equipment or unlisted appearance is covered.",
+        "main/root/body/left_arm/0: Non-representable orientation: RP Engine element rotations are single-axis 0/+-22.5/+-45 degrees"
+      ],
+      "modelId": "vanillamobs:allay_adult",
+      "supported": false
+    },
+    {
+      "conditions": {
+        "age": "adult",
+        "equipment": "none",
+        "headPitchDegrees": 0,
+        "headYawDegrees": 0,
+        "invisible": false,
+        "moving": false,
+        "pose": "standing",
+        "upsideDown": false,
+        "variant": "minecraft:armadillo"
+      },
+      "display": {
+        "offsetX": 0,
+        "offsetY": 0.001,
+        "offsetZ": 0,
+        "scale": 2.5,
+        "yawOffsetDegrees": 180
+      },
+      "entityType": "ARMADILLO",
+      "limitations": [
+        "Static snapshot of the official default render state; no animation, movement, equipment or unlisted appearance is covered.",
+        "main/root/body/head/left_ear/left_ear_cube/0: Non-representable orientation: RP Engine element rotations are single-axis 0/+-22.5/+-45 degrees"
+      ],
+      "modelId": "vanillamobs:armadillo_adult",
+      "supported": false
+    },
+    {
+      "conditions": {
+        "age": "adult",
+        "equipment": "none",
+        "headPitchDegrees": 0,
+        "headYawDegrees": 0,
+        "invisible": false,
+        "moving": false,
+        "pose": "standing",
+        "upsideDown": false,
+        "variant": "minecraft:lucy"
+      },
+      "display": {
+        "offsetX": 0,
+        "offsetY": 0.001,
+        "offsetZ": 0,
+        "scale": 2.5,
+        "yawOffsetDegrees": 180
+      },
+      "entityType": "AXOLOTL",
+      "limitations": [
+        "Static snapshot of the official default render state; no animation, movement, equipment or unlisted appearance is covered.",
+        "main/root/body/0: Non-representable orientation: RP Engine element rotations are single-axis 0/+-22.5/+-45 degrees"
+      ],
+      "modelId": "vanillamobs:axolotl_adult",
+      "supported": false
+    },
+    {
+      "conditions": {
+        "age": "adult",
+        "equipment": "none",
+        "headPitchDegrees": 0,
+        "headYawDegrees": 0,
+        "invisible": false,
+        "moving": false,
+        "pose": "standing",
+        "upsideDown": false,
+        "variant": "minecraft:bat"
+      },
+      "display": {
+        "offsetX": 0,
+        "offsetY": 0.001,
+        "offsetZ": 0,
+        "scale": 2.5,
+        "yawOffsetDegrees": 180
+      },
+      "entityType": "BAT",
+      "limitations": [
+        "Static snapshot of the official default render state; no animation, movement, equipment or unlisted appearance is covered."
+      ],
+      "modelId": "vanillamobs:bat_adult",
+      "supported": true
+    },
+    {
+      "conditions": {
+        "age": "adult",
+        "equipment": "none",
+        "headPitchDegrees": 0,
+        "headYawDegrees": 0,
+        "invisible": false,
+        "moving": false,
+        "pose": "standing",
+        "upsideDown": false,
+        "variant": "minecraft:bee"
+      },
+      "display": {
+        "offsetX": 0,
+        "offsetY": 0.001,
+        "offsetZ": 0,
+        "scale": 2.5,
+        "yawOffsetDegrees": 180
+      },
+      "entityType": "BEE",
+      "limitations": [
+        "Static snapshot of the official default render state; no animation, movement, equipment or unlisted appearance is covered.",
+        "main/root/bone/back_legs/0: Non-representable orientation: RP Engine element rotations are single-axis 0/+-22.5/+-45 degrees"
+      ],
+      "modelId": "vanillamobs:bee_adult",
+      "supported": false
+    },
+    {
+      "conditions": {
+        "age": "adult",
+        "equipment": "none",
+        "headPitchDegrees": 0,
+        "headYawDegrees": 0,
+        "invisible": false,
+        "moving": false,
+        "pose": "standing",
+        "upsideDown": false,
+        "variant": "minecraft:blaze"
+      },
+      "display": {
+        "offsetX": 0,
+        "offsetY": 0.001,
+        "offsetZ": 0,
+        "scale": 2.5,
+        "yawOffsetDegrees": 180
+      },
+      "entityType": "BLAZE",
+      "limitations": [
+        "Static snapshot of the official default render state; no animation, movement, equipment or unlisted appearance is covered."
+      ],
+      "modelId": "vanillamobs:blaze_adult",
+      "supported": true
+    },
+    {
+      "conditions": {
+        "age": "adult",
+        "equipment": "none",
+        "headPitchDegrees": 0,
+        "headYawDegrees": 0,
+        "invisible": false,
+        "moving": false,
+        "pose": "standing",
+        "upsideDown": false,
+        "variant": "minecraft:bogged"
+      },
+      "display": {
+        "offsetX": 0,
+        "offsetY": 0.001,
+        "offsetZ": 0,
+        "scale": 2.5,
+        "yawOffsetDegrees": 180
+      },
+      "entityType": "BOGGED",
+      "limitations": [
+        "Static snapshot of the official default render state; no animation, movement, equipment or unlisted appearance is covered.",
+        "Dance-compatible static model uses the official bind pose with mushrooms and the official clothing layer; empty hands.",
+        "Delivered with the official bind pose, not the vanilla idle pose.",
+        "clothing layer uses its official bind pose to match the simplified dance pose."
+      ],
+      "modelId": "vanillamobs:bogged_adult",
+      "supported": true
+    },
+    {
+      "conditions": {
+        "age": "adult",
+        "equipment": "none",
+        "headPitchDegrees": 0,
+        "headYawDegrees": 0,
+        "invisible": false,
+        "moving": false,
+        "pose": "standing",
+        "upsideDown": false,
+        "variant": "minecraft:breeze"
+      },
+      "display": {
+        "offsetX": 0,
+        "offsetY": 0.001,
+        "offsetZ": 0,
+        "scale": 2.5,
+        "yawOffsetDegrees": 180
+      },
+      "entityType": "BREEZE",
+      "limitations": [
+        "Static snapshot of the official default render state; no animation, movement, equipment or unlisted appearance is covered.",
+        "main/root/body/rods/rod_1/0: Non-representable orientation: RP Engine element rotations are single-axis 0/+-22.5/+-45 degrees"
+      ],
+      "modelId": "vanillamobs:breeze_adult",
+      "supported": false
+    },
+    {
+      "conditions": {
+        "age": "adult",
+        "equipment": "none",
+        "headPitchDegrees": 0,
+        "headYawDegrees": 0,
+        "invisible": false,
+        "moving": false,
+        "pose": "standing",
+        "saddle": false,
+        "upsideDown": false,
+        "variant": "minecraft:camel"
+      },
+      "display": {
+        "offsetX": 0,
+        "offsetY": 0.001,
+        "offsetZ": 0,
+        "scale": 2.5,
+        "yawOffsetDegrees": 180
+      },
+      "entityType": "CAMEL",
+      "limitations": [
+        "Static snapshot of the official default render state; no animation, movement, equipment or unlisted appearance is covered."
+      ],
+      "modelId": "vanillamobs:camel_adult",
+      "supported": true
+    },
+    {
+      "conditions": {
+        "age": "adult",
+        "equipment": "none",
+        "headPitchDegrees": 0,
+        "headYawDegrees": 0,
+        "invisible": false,
+        "moving": false,
+        "pose": "standing",
+        "saddle": false,
+        "upsideDown": false,
+        "variant": "minecraft:camel_husk"
+      },
+      "display": {
+        "offsetX": 0,
+        "offsetY": 0.001,
+        "offsetZ": 0,
+        "scale": 2.5,
+        "yawOffsetDegrees": 180
+      },
+      "entityType": "CAMEL_HUSK",
+      "limitations": [
+        "Static snapshot of the official default render state; no animation, movement, equipment or unlisted appearance is covered."
+      ],
+      "modelId": "vanillamobs:camel_husk_adult",
+      "supported": true
+    },
+    {
+      "conditions": {
+        "age": "adult",
+        "collar": "none",
+        "equipment": "none",
+        "headPitchDegrees": 0,
+        "headYawDegrees": 0,
+        "invisible": false,
+        "moving": false,
+        "pose": "standing",
+        "upsideDown": false,
+        "variant": "minecraft:tabby"
+      },
+      "display": {
+        "offsetX": 0,
+        "offsetY": 0.001,
+        "offsetZ": 0,
+        "scale": 2.5,
+        "yawOffsetDegrees": 180
+      },
+      "entityType": "CAT",
+      "limitations": [
+        "Static snapshot of the official default render state; no animation, movement, equipment or unlisted appearance is covered.",
+        "main/root/tail1/0: Non-representable orientation: RP Engine element rotations are single-axis 0/+-22.5/+-45 degrees"
+      ],
+      "modelId": "vanillamobs:cat_adult",
+      "supported": false
+    },
+    {
+      "conditions": {
+        "age": "adult",
+        "equipment": "none",
+        "headPitchDegrees": 0,
+        "headYawDegrees": 0,
+        "invisible": false,
+        "moving": false,
+        "pose": "standing",
+        "upsideDown": false,
+        "variant": "minecraft:cave_spider"
+      },
+      "display": {
+        "offsetX": 0,
+        "offsetY": 0.001,
+        "offsetZ": 0,
+        "scale": 2.5,
+        "yawOffsetDegrees": 180
+      },
+      "entityType": "CAVE_SPIDER",
+      "limitations": [
+        "Static snapshot of the official default render state; no animation, movement, equipment or unlisted appearance is covered.",
+        "Dance-compatible static pose keeps the official leg yaw but removes leg roll so each cube uses one RP Engine rotation axis.",
+        "Dance pose removes left_front_leg roll while preserving official yaw.",
+        "Dance pose removes left_hind_leg roll while preserving official yaw.",
+        "Dance pose removes left_middle_front_leg roll while preserving official yaw.",
+        "Dance pose removes left_middle_hind_leg roll while preserving official yaw.",
+        "Dance pose removes right_front_leg roll while preserving official yaw.",
+        "Dance pose removes right_hind_leg roll while preserving official yaw.",
+        "Dance pose removes right_middle_front_leg roll while preserving official yaw.",
+        "Dance pose removes right_middle_hind_leg roll while preserving official yaw."
+      ],
+      "modelId": "vanillamobs:cave_spider_adult",
+      "supported": true
+    },
+    {
+      "conditions": {
+        "age": "adult",
+        "equipment": "none",
+        "headPitchDegrees": 0,
+        "headYawDegrees": 0,
+        "invisible": false,
+        "moving": false,
+        "pose": "standing",
+        "upsideDown": false,
+        "variant": "minecraft:temperate"
+      },
+      "display": {
+        "offsetX": 0,
+        "offsetY": 0.001,
+        "offsetZ": 0,
+        "scale": 2.5,
+        "yawOffsetDegrees": 180
+      },
+      "entityType": "CHICKEN",
+      "limitations": [
+        "Static snapshot of the official default render state; no animation, movement, equipment or unlisted appearance is covered."
+      ],
+      "modelId": "vanillamobs:chicken_adult",
+      "supported": true
+    },
+    {
+      "conditions": {
+        "age": "adult",
+        "equipment": "none",
+        "headPitchDegrees": 0,
+        "headYawDegrees": 0,
+        "invisible": false,
+        "moving": false,
+        "pose": "standing",
+        "upsideDown": false,
+        "variant": "minecraft:cod"
+      },
+      "display": {
+        "offsetX": 0,
+        "offsetY": 0.001,
+        "offsetZ": 0,
+        "scale": 2.5,
+        "yawOffsetDegrees": 180
+      },
+      "entityType": "COD",
+      "limitations": [
+        "Static snapshot of the official default render state; no animation, movement, equipment or unlisted appearance is covered."
+      ],
+      "modelId": "vanillamobs:cod_adult",
+      "supported": true
+    },
+    {
+      "conditions": {
+        "age": "adult",
+        "equipment": "none",
+        "headPitchDegrees": 0,
+        "headYawDegrees": 0,
+        "invisible": false,
+        "moving": false,
+        "pose": "standing",
+        "upsideDown": false,
+        "variant": "minecraft:temperate"
+      },
+      "display": {
+        "offsetX": 0,
+        "offsetY": 0.001,
+        "offsetZ": 0,
+        "scale": 2.5,
+        "yawOffsetDegrees": 180
+      },
+      "entityType": "COW",
+      "limitations": [
+        "Static snapshot of the official default render state; no animation, movement, equipment or unlisted appearance is covered."
+      ],
+      "modelId": "vanillamobs:cow_adult",
+      "supported": true
+    },
+    {
+      "conditions": {
+        "age": "adult",
+        "equipment": "none",
+        "headPitchDegrees": 0,
+        "headYawDegrees": 0,
+        "invisible": false,
+        "moving": false,
+        "pose": "standing",
+        "upsideDown": false,
+        "variant": "minecraft:creaking"
+      },
+      "display": {
+        "offsetX": 0,
+        "offsetY": 0.001,
+        "offsetZ": 0,
+        "scale": 2.5,
+        "yawOffsetDegrees": 180
+      },
+      "entityType": "CREAKING",
+      "limitations": [
+        "Static snapshot of the official default render state; no animation, movement, equipment or unlisted appearance is covered.",
+        "The eyes layer is a separate model layer and is included, but item models cannot reproduce the game's additive emissive render pass; it is delivered as an ordinary cutout overlay."
+      ],
+      "modelId": "vanillamobs:creaking_adult",
+      "supported": true
+    },
+    {
+      "conditions": {
+        "age": "adult",
+        "equipment": "none",
+        "headPitchDegrees": 0,
+        "headYawDegrees": 0,
+        "invisible": false,
+        "moving": false,
+        "pose": "standing",
+        "upsideDown": false,
+        "variant": "minecraft:creeper"
+      },
+      "display": {
+        "offsetX": 0,
+        "offsetY": 0.001,
+        "offsetZ": 0,
+        "scale": 2.5,
+        "yawOffsetDegrees": 180
+      },
+      "entityType": "CREEPER",
+      "limitations": [
+        "Static snapshot of the official default render state; no animation, movement, equipment or unlisted appearance is covered."
+      ],
+      "modelId": "vanillamobs:creeper_adult",
+      "supported": true
+    },
+    {
+      "conditions": {
+        "age": "adult",
+        "equipment": "none",
+        "headPitchDegrees": 0,
+        "headYawDegrees": 0,
+        "invisible": false,
+        "moving": false,
+        "pose": "standing",
+        "upsideDown": false,
+        "variant": "minecraft:dolphin"
+      },
+      "display": {
+        "offsetX": 0,
+        "offsetY": 0.001,
+        "offsetZ": 0,
+        "scale": 2.5,
+        "yawOffsetDegrees": 180
+      },
+      "entityType": "DOLPHIN",
+      "limitations": [
+        "Static snapshot of the official default render state; no animation, movement, equipment or unlisted appearance is covered.",
+        "main/root/body/back_fin/0: Non-representable orientation: RP Engine element rotations are single-axis 0/+-22.5/+-45 degrees"
+      ],
+      "modelId": "vanillamobs:dolphin_adult",
+      "supported": false
+    },
+    {
+      "conditions": {
+        "age": "adult",
+        "equipment": "none",
+        "headPitchDegrees": 0,
+        "headYawDegrees": 0,
+        "invisible": false,
+        "moving": false,
+        "pose": "standing",
+        "upsideDown": false,
+        "variant": "minecraft:donkey"
+      },
+      "display": {
+        "offsetX": 0,
+        "offsetY": 0.001,
+        "offsetZ": 0,
+        "scale": 2.5,
+        "yawOffsetDegrees": 180
+      },
+      "entityType": "DONKEY",
+      "limitations": [
+        "Static snapshot of the official default render state; no animation, movement, equipment or unlisted appearance is covered.",
+        "main/root/body/tail/0: Non-representable orientation: RP Engine element rotations are single-axis 0/+-22.5/+-45 degrees"
+      ],
+      "modelId": "vanillamobs:donkey_adult",
+      "supported": false
+    },
+    {
+      "conditions": {
+        "age": "adult",
+        "equipment": "none",
+        "headPitchDegrees": 0,
+        "headYawDegrees": 0,
+        "invisible": false,
+        "moving": false,
+        "pose": "standing",
+        "upsideDown": false,
+        "variant": "minecraft:drowned"
+      },
+      "display": {
+        "offsetX": 0,
+        "offsetY": 0.001,
+        "offsetZ": 0,
+        "scale": 2.5,
+        "yawOffsetDegrees": 180
+      },
+      "entityType": "DROWNED",
+      "limitations": [
+        "Static snapshot of the official default render state; no animation, movement, equipment or unlisted appearance is covered.",
+        "Dance-compatible static model uses the official bind pose with its official outer layer and empty hands.",
+        "Delivered with the official bind pose, not the vanilla idle pose.",
+        "outer layer uses its official bind pose to match the simplified dance pose."
+      ],
+      "modelId": "vanillamobs:drowned_adult",
+      "supported": true
+    },
+    {
+      "conditions": {
+        "age": "adult",
+        "equipment": "none",
+        "headPitchDegrees": 0,
+        "headYawDegrees": 0,
+        "invisible": false,
+        "moving": false,
+        "pose": "standing",
+        "upsideDown": false,
+        "variant": "minecraft:elder_guardian"
+      },
+      "display": {
+        "offsetX": 0,
+        "offsetY": 0.001,
+        "offsetZ": 0,
+        "scale": 2.5,
+        "yawOffsetDegrees": 180
+      },
+      "entityType": "ELDER_GUARDIAN",
+      "limitations": [
+        "Static snapshot of the official default render state; no animation, movement, equipment or unlisted appearance is covered."
+      ],
+      "modelId": "vanillamobs:elder_guardian_adult",
+      "supported": true
+    },
+    {
+      "conditions": {
+        "age": "adult",
+        "equipment": "none",
+        "headPitchDegrees": 0,
+        "headYawDegrees": 0,
+        "invisible": false,
+        "moving": false,
+        "pose": "standing",
+        "upsideDown": false,
+        "variant": "minecraft:ender_dragon"
+      },
+      "display": {
+        "offsetX": 0,
+        "offsetY": 0.001,
+        "offsetZ": 0,
+        "scale": 2.5,
+        "yawOffsetDegrees": 180
+      },
+      "entityType": "ENDER_DRAGON",
+      "limitations": [
+        "Static snapshot of the official default render state; no animation, movement, equipment or unlisted appearance is covered.",
+        "EnderDragonRenderer has no single getTextureLocation; its body, wings and eyes use part-specific textures and render passes that cannot be represented as one static bbmodel."
+      ],
+      "modelId": "vanillamobs:ender_dragon_adult",
+      "supported": false
+    },
+    {
+      "conditions": {
+        "age": "adult",
+        "equipment": "none",
+        "headPitchDegrees": 0,
+        "headYawDegrees": 0,
+        "invisible": false,
+        "moving": false,
+        "pose": "standing",
+        "upsideDown": false,
+        "variant": "minecraft:enderman"
+      },
+      "display": {
+        "offsetX": 0,
+        "offsetY": 0.001,
+        "offsetZ": 0,
+        "scale": 2.5,
+        "yawOffsetDegrees": 180
+      },
+      "entityType": "ENDERMAN",
+      "limitations": [
+        "Static snapshot of the official default render state; no animation, movement, equipment or unlisted appearance is covered.",
+        "main/root/left_arm/0: Non-representable orientation: RP Engine element rotations are single-axis 0/+-22.5/+-45 degrees"
+      ],
+      "modelId": "vanillamobs:enderman_adult",
+      "supported": false
+    },
+    {
+      "conditions": {
+        "age": "adult",
+        "equipment": "none",
+        "headPitchDegrees": 0,
+        "headYawDegrees": 0,
+        "invisible": false,
+        "moving": false,
+        "pose": "standing",
+        "upsideDown": false,
+        "variant": "minecraft:endermite"
+      },
+      "display": {
+        "offsetX": 0,
+        "offsetY": 0.001,
+        "offsetZ": 0,
+        "scale": 2.5,
+        "yawOffsetDegrees": 180
+      },
+      "entityType": "ENDERMITE",
+      "limitations": [
+        "Static snapshot of the official default render state; no animation, movement, equipment or unlisted appearance is covered.",
+        "main/root/segment0/0: Non-representable orientation: RP Engine element rotations are single-axis 0/+-22.5/+-45 degrees"
+      ],
+      "modelId": "vanillamobs:endermite_adult",
+      "supported": false
+    },
+    {
+      "conditions": {
+        "age": "adult",
+        "equipment": "none",
+        "headPitchDegrees": 0,
+        "headYawDegrees": 0,
+        "invisible": false,
+        "moving": false,
+        "pose": "standing",
+        "upsideDown": false,
+        "variant": "minecraft:evoker"
+      },
+      "display": {
+        "offsetX": 0,
+        "offsetY": 0.001,
+        "offsetZ": 0,
+        "scale": 2.5,
+        "yawOffsetDegrees": 180
+      },
+      "entityType": "EVOKER",
+      "limitations": [
+        "Static snapshot of the official default render state; no animation, movement, equipment or unlisted appearance is covered."
+      ],
+      "modelId": "vanillamobs:evoker_adult",
+      "supported": true
+    },
+    {
+      "conditions": {
+        "age": "adult",
+        "equipment": "none",
+        "headPitchDegrees": 0,
+        "headYawDegrees": 0,
+        "invisible": false,
+        "moving": false,
+        "pose": "standing",
+        "upsideDown": false,
+        "variant": "minecraft:red"
+      },
+      "display": {
+        "offsetX": 0,
+        "offsetY": 0.001,
+        "offsetZ": 0,
+        "scale": 2.5,
+        "yawOffsetDegrees": 180
+      },
+      "entityType": "FOX",
+      "limitations": [
+        "Static snapshot of the official default render state; no animation, movement, equipment or unlisted appearance is covered.",
+        "main/root/body/tail/0: Non-representable orientation: RP Engine element rotations are single-axis 0/+-22.5/+-45 degrees"
+      ],
+      "modelId": "vanillamobs:fox_adult",
+      "supported": false
+    },
+    {
+      "conditions": {
+        "age": "adult",
+        "equipment": "none",
+        "headPitchDegrees": 0,
+        "headYawDegrees": 0,
+        "invisible": false,
+        "moving": false,
+        "pose": "standing",
+        "upsideDown": false,
+        "variant": "minecraft:temperate"
+      },
+      "display": {
+        "offsetX": 0,
+        "offsetY": 0.001,
+        "offsetZ": 0,
+        "scale": 2.5,
+        "yawOffsetDegrees": 180
+      },
+      "entityType": "FROG",
+      "limitations": [
+        "Static snapshot of the official default render state; no animation, movement, equipment or unlisted appearance is covered."
+      ],
+      "modelId": "vanillamobs:frog_adult",
+      "supported": true
+    },
+    {
+      "conditions": {
+        "age": "adult",
+        "equipment": "none",
+        "headPitchDegrees": 0,
+        "headYawDegrees": 0,
+        "invisible": false,
+        "moving": false,
+        "pose": "standing",
+        "upsideDown": false,
+        "variant": "minecraft:ghast"
+      },
+      "display": {
+        "offsetX": 0,
+        "offsetY": 0.001,
+        "offsetZ": 0,
+        "scale": 2.5,
+        "yawOffsetDegrees": 180
+      },
+      "entityType": "GHAST",
+      "limitations": [
+        "Static snapshot of the official default render state; no animation, movement, equipment or unlisted appearance is covered.",
+        "main/root/tentacle0/0: Non-representable orientation: RP Engine element rotations are single-axis 0/+-22.5/+-45 degrees"
+      ],
+      "modelId": "vanillamobs:ghast_adult",
+      "supported": false
+    },
+    {
+      "conditions": {
+        "age": "adult",
+        "equipment": "none",
+        "headPitchDegrees": 0,
+        "headYawDegrees": 0,
+        "invisible": false,
+        "moving": false,
+        "pose": "standing",
+        "upsideDown": false,
+        "variant": "minecraft:giant"
+      },
+      "display": {
+        "offsetX": 0,
+        "offsetY": 0.001,
+        "offsetZ": 0,
+        "scale": 2.5,
+        "yawOffsetDegrees": 180
+      },
+      "entityType": "GIANT",
+      "limitations": [
+        "Static snapshot of the official default render state; no animation, movement, equipment or unlisted appearance is covered.",
+        "main/root/left_arm/0: Non-representable orientation: RP Engine element rotations are single-axis 0/+-22.5/+-45 degrees"
+      ],
+      "modelId": "vanillamobs:giant_adult",
+      "supported": false
+    },
+    {
+      "conditions": {
+        "age": "adult",
+        "equipment": "none",
+        "headPitchDegrees": 0,
+        "headYawDegrees": 0,
+        "invisible": false,
+        "moving": false,
+        "pose": "standing",
+        "upsideDown": false,
+        "variant": "minecraft:glow_squid"
+      },
+      "display": {
+        "offsetX": 0,
+        "offsetY": 0.001,
+        "offsetZ": 0,
+        "scale": 2.5,
+        "yawOffsetDegrees": 180
+      },
+      "entityType": "GLOW_SQUID",
+      "limitations": [
+        "Static snapshot of the official default render state; no animation, movement, equipment or unlisted appearance is covered."
+      ],
+      "modelId": "vanillamobs:glow_squid_adult",
+      "supported": true
+    },
+    {
+      "conditions": {
+        "age": "adult",
+        "equipment": "none",
+        "headPitchDegrees": 0,
+        "headYawDegrees": 0,
+        "invisible": false,
+        "moving": false,
+        "pose": "standing",
+        "upsideDown": false,
+        "variant": "minecraft:goat"
+      },
+      "display": {
+        "offsetX": 0,
+        "offsetY": 0.001,
+        "offsetZ": 0,
+        "scale": 2.5,
+        "yawOffsetDegrees": 180
+      },
+      "entityType": "GOAT",
+      "limitations": [
+        "Static snapshot of the official default render state; no animation, movement, equipment or unlisted appearance is covered.",
+        "main/root/head/nose/0: Non-representable orientation: RP Engine element rotations are single-axis 0/+-22.5/+-45 degrees"
+      ],
+      "modelId": "vanillamobs:goat_adult",
+      "supported": false
+    },
+    {
+      "conditions": {
+        "age": "adult",
+        "equipment": "none",
+        "headPitchDegrees": 0,
+        "headYawDegrees": 0,
+        "invisible": false,
+        "moving": false,
+        "pose": "standing",
+        "upsideDown": false,
+        "variant": "minecraft:guardian"
+      },
+      "display": {
+        "offsetX": 0,
+        "offsetY": 0.001,
+        "offsetZ": 0,
+        "scale": 2.5,
+        "yawOffsetDegrees": 180
+      },
+      "entityType": "GUARDIAN",
+      "limitations": [
+        "Static snapshot of the official default render state; no animation, movement, equipment or unlisted appearance is covered."
+      ],
+      "modelId": "vanillamobs:guardian_adult",
+      "supported": true
+    },
+    {
+      "conditions": {
+        "age": "adult",
+        "equipment": "none",
+        "headPitchDegrees": 0,
+        "headYawDegrees": 0,
+        "invisible": false,
+        "moving": false,
+        "pose": "standing",
+        "upsideDown": false,
+        "variant": "minecraft:happy_ghast"
+      },
+      "display": {
+        "offsetX": 0,
+        "offsetY": 0.001,
+        "offsetZ": 0,
+        "scale": 2.5,
+        "yawOffsetDegrees": 180
+      },
+      "entityType": "HAPPY_GHAST",
+      "limitations": [
+        "Static snapshot of the official default render state; no animation, movement, equipment or unlisted appearance is covered.",
+        "main/root/body/tentacle0/0: Non-representable orientation: RP Engine element rotations are single-axis 0/+-22.5/+-45 degrees"
+      ],
+      "modelId": "vanillamobs:happy_ghast_adult",
+      "supported": false
+    },
+    {
+      "conditions": {
+        "age": "adult",
+        "equipment": "none",
+        "headPitchDegrees": 0,
+        "headYawDegrees": 0,
+        "invisible": false,
+        "moving": false,
+        "pose": "standing",
+        "upsideDown": false,
+        "variant": "minecraft:hoglin"
+      },
+      "display": {
+        "offsetX": 0,
+        "offsetY": 0.001,
+        "offsetZ": 0,
+        "scale": 2.5,
+        "yawOffsetDegrees": 180
+      },
+      "entityType": "HOGLIN",
+      "limitations": [
+        "Static snapshot of the official default render state; no animation, movement, equipment or unlisted appearance is covered.",
+        "main/root/head/0: Non-representable orientation: RP Engine element rotations are single-axis 0/+-22.5/+-45 degrees"
+      ],
+      "modelId": "vanillamobs:hoglin_adult",
+      "supported": false
+    },
+    {
+      "conditions": {
+        "age": "adult",
+        "armor": "none",
+        "equipment": "none",
+        "headPitchDegrees": 0,
+        "headYawDegrees": 0,
+        "invisible": false,
+        "markings": "none",
+        "moving": false,
+        "pose": "standing",
+        "saddle": false,
+        "upsideDown": false,
+        "variant": "minecraft:white"
+      },
+      "display": {
+        "offsetX": 0,
+        "offsetY": 0.001,
+        "offsetZ": 0,
+        "scale": 2.5,
+        "yawOffsetDegrees": 180
+      },
+      "entityType": "HORSE",
+      "limitations": [
+        "Static snapshot of the official default render state; no animation, movement, equipment or unlisted appearance is covered.",
+        "main/root/body/tail/0: Non-representable orientation: RP Engine element rotations are single-axis 0/+-22.5/+-45 degrees"
+      ],
+      "modelId": "vanillamobs:horse_adult",
+      "supported": false
+    },
+    {
+      "conditions": {
+        "age": "adult",
+        "equipment": "none",
+        "headPitchDegrees": 0,
+        "headYawDegrees": 0,
+        "invisible": false,
+        "moving": false,
+        "pose": "standing",
+        "upsideDown": false,
+        "variant": "minecraft:husk"
+      },
+      "display": {
+        "offsetX": 0,
+        "offsetY": 0.001,
+        "offsetZ": 0,
+        "scale": 2.5,
+        "yawOffsetDegrees": 180
+      },
+      "entityType": "HUSK",
+      "limitations": [
+        "Static snapshot of the official default render state; no animation, movement, equipment or unlisted appearance is covered.",
+        "Dance-compatible static model uses the official bind pose with arms down.",
+        "Delivered with the official bind pose, not the vanilla idle pose."
+      ],
+      "modelId": "vanillamobs:husk_adult",
+      "supported": true
+    },
+    {
+      "conditions": {
+        "age": "adult",
+        "equipment": "none",
+        "headPitchDegrees": 0,
+        "headYawDegrees": 0,
+        "invisible": false,
+        "moving": false,
+        "pose": "standing",
+        "upsideDown": false,
+        "variant": "minecraft:illusioner"
+      },
+      "display": {
+        "offsetX": 0,
+        "offsetY": 0.001,
+        "offsetZ": 0,
+        "scale": 2.5,
+        "yawOffsetDegrees": 180
+      },
+      "entityType": "ILLUSIONER",
+      "limitations": [
+        "Static snapshot of the official default render state; no animation, movement, equipment or unlisted appearance is covered."
+      ],
+      "modelId": "vanillamobs:illusioner_adult",
+      "supported": true
+    },
+    {
+      "conditions": {
+        "age": "adult",
+        "decor": "none",
+        "equipment": "none",
+        "headPitchDegrees": 0,
+        "headYawDegrees": 0,
+        "invisible": false,
+        "moving": false,
+        "pose": "standing",
+        "saddle": false,
+        "upsideDown": false,
+        "variant": "minecraft:creamy"
+      },
+      "display": {
+        "offsetX": 0,
+        "offsetY": 0.001,
+        "offsetZ": 0,
+        "scale": 2.5,
+        "yawOffsetDegrees": 180
+      },
+      "entityType": "LLAMA",
+      "limitations": [
+        "Static snapshot of the official default render state; no animation, movement, equipment or unlisted appearance is covered."
+      ],
+      "modelId": "vanillamobs:llama_adult",
+      "supported": true
+    },
+    {
+      "conditions": {
+        "age": "adult",
+        "equipment": "none",
+        "headPitchDegrees": 0,
+        "headYawDegrees": 0,
+        "invisible": false,
+        "moving": false,
+        "pose": "standing",
+        "upsideDown": false,
+        "variant": "minecraft:magma_cube"
+      },
+      "display": {
+        "offsetX": 0,
+        "offsetY": 0.001,
+        "offsetZ": 0,
+        "scale": 2.5,
+        "yawOffsetDegrees": 180
+      },
+      "entityType": "MAGMA_CUBE",
+      "limitations": [
+        "Static snapshot of the official default render state; no animation, movement, equipment or unlisted appearance is covered."
+      ],
+      "modelId": "vanillamobs:magma_cube_adult",
+      "supported": true
+    },
+    {
+      "conditions": {
+        "age": "adult",
+        "equipment": "none",
+        "headPitchDegrees": 0,
+        "headYawDegrees": 0,
+        "invisible": false,
+        "moving": false,
+        "pose": "standing",
+        "upsideDown": false,
+        "variant": "minecraft:red"
+      },
+      "display": {
+        "offsetX": 0,
+        "offsetY": 0.001,
+        "offsetZ": 0,
+        "scale": 2.5,
+        "yawOffsetDegrees": 180
+      },
+      "entityType": "MOOSHROOM",
+      "limitations": [
+        "Static snapshot of the official default render state; no animation, movement, equipment or unlisted appearance is covered.",
+        "The default mushroom overlay is rendered as brown/red mushroom block models on the cow, not as an entity ModelLayer; exporting only the cow body would silently drop the mushrooms."
+      ],
+      "modelId": "vanillamobs:mooshroom_adult",
+      "supported": false
+    },
+    {
+      "conditions": {
+        "age": "adult",
+        "equipment": "none",
+        "headPitchDegrees": 0,
+        "headYawDegrees": 0,
+        "invisible": false,
+        "moving": false,
+        "pose": "standing",
+        "upsideDown": false,
+        "variant": "minecraft:mule"
+      },
+      "display": {
+        "offsetX": 0,
+        "offsetY": 0.001,
+        "offsetZ": 0,
+        "scale": 2.5,
+        "yawOffsetDegrees": 180
+      },
+      "entityType": "MULE",
+      "limitations": [
+        "Static snapshot of the official default render state; no animation, movement, equipment or unlisted appearance is covered.",
+        "main/root/body/tail/0: Non-representable orientation: RP Engine element rotations are single-axis 0/+-22.5/+-45 degrees"
+      ],
+      "modelId": "vanillamobs:mule_adult",
+      "supported": false
+    },
+    {
+      "conditions": {
+        "age": "adult",
+        "armor": "none",
+        "equipment": "none",
+        "headPitchDegrees": 0,
+        "headYawDegrees": 0,
+        "invisible": false,
+        "moving": false,
+        "pose": "standing",
+        "saddle": false,
+        "upsideDown": false,
+        "variant": "minecraft:temperate"
+      },
+      "display": {
+        "offsetX": 0,
+        "offsetY": 0.001,
+        "offsetZ": 0,
+        "scale": 2.5,
+        "yawOffsetDegrees": 180
+      },
+      "entityType": "NAUTILUS",
+      "limitations": [
+        "Static snapshot of the official default render state; no animation, movement, equipment or unlisted appearance is covered."
+      ],
+      "modelId": "vanillamobs:nautilus_adult",
+      "supported": true
+    },
+    {
+      "conditions": {
+        "age": "adult",
+        "equipment": "none",
+        "headPitchDegrees": 0,
+        "headYawDegrees": 0,
+        "invisible": false,
+        "moving": false,
+        "pose": "standing",
+        "upsideDown": false,
+        "variant": "minecraft:ocelot"
+      },
+      "display": {
+        "offsetX": 0,
+        "offsetY": 0.001,
+        "offsetZ": 0,
+        "scale": 2.5,
+        "yawOffsetDegrees": 180
+      },
+      "entityType": "OCELOT",
+      "limitations": [
+        "Static snapshot of the official default render state; no animation, movement, equipment or unlisted appearance is covered.",
+        "main/root/tail1/0: Non-representable orientation: RP Engine element rotations are single-axis 0/+-22.5/+-45 degrees"
+      ],
+      "modelId": "vanillamobs:ocelot_adult",
+      "supported": false
+    },
+    {
+      "conditions": {
+        "age": "adult",
+        "equipment": "none",
+        "headPitchDegrees": 0,
+        "headYawDegrees": 0,
+        "heldItem": "none",
+        "invisible": false,
+        "moving": false,
+        "pose": "standing",
+        "upsideDown": false,
+        "variant": "minecraft:normal"
+      },
+      "display": {
+        "offsetX": 0,
+        "offsetY": 0.001,
+        "offsetZ": 0,
+        "scale": 2.5,
+        "yawOffsetDegrees": 180
+      },
+      "entityType": "PANDA",
+      "limitations": [
+        "Static snapshot of the official default render state; no animation, movement, equipment or unlisted appearance is covered."
+      ],
+      "modelId": "vanillamobs:panda_adult",
+      "supported": true
+    },
+    {
+      "conditions": {
+        "age": "adult",
+        "equipment": "none",
+        "headPitchDegrees": 0,
+        "headYawDegrees": 0,
+        "invisible": false,
+        "moving": false,
+        "pose": "standing",
+        "upsideDown": false,
+        "variant": "minecraft:parched"
+      },
+      "display": {
+        "offsetX": 0,
+        "offsetY": 0.001,
+        "offsetZ": 0,
+        "scale": 2.5,
+        "yawOffsetDegrees": 180
+      },
+      "entityType": "PARCHED",
+      "limitations": [
+        "Static snapshot of the official default render state; no animation, movement, equipment or unlisted appearance is covered.",
+        "main/root/left_arm/0: Non-representable orientation: RP Engine element rotations are single-axis 0/+-22.5/+-45 degrees"
+      ],
+      "modelId": "vanillamobs:parched_adult",
+      "supported": false
+    },
+    {
+      "conditions": {
+        "age": "adult",
+        "equipment": "none",
+        "headPitchDegrees": 0,
+        "headYawDegrees": 0,
+        "invisible": false,
+        "moving": false,
+        "pose": "standing",
+        "upsideDown": false,
+        "variant": "minecraft:red_blue"
+      },
+      "display": {
+        "offsetX": 0,
+        "offsetY": 0.001,
+        "offsetZ": 0,
+        "scale": 2.5,
+        "yawOffsetDegrees": 180
+      },
+      "entityType": "PARROT",
+      "limitations": [
+        "Static snapshot of the official default render state; no animation, movement, equipment or unlisted appearance is covered.",
+        "main/root/body/0: Non-representable orientation: RP Engine element rotations are single-axis 0/+-22.5/+-45 degrees"
+      ],
+      "modelId": "vanillamobs:parrot_adult",
+      "supported": false
+    },
+    {
+      "conditions": {
+        "age": "adult",
+        "equipment": "none",
+        "headPitchDegrees": 0,
+        "headYawDegrees": 0,
+        "invisible": false,
+        "moving": false,
+        "pose": "standing",
+        "upsideDown": false,
+        "variant": "minecraft:phantom"
+      },
+      "display": {
+        "offsetX": 0,
+        "offsetY": 0.001,
+        "offsetZ": 0,
+        "scale": 2.5,
+        "yawOffsetDegrees": 180
+      },
+      "entityType": "PHANTOM",
+      "limitations": [
+        "Static snapshot of the official default render state; no animation, movement, equipment or unlisted appearance is covered.",
+        "main/root/body/0: Non-representable orientation: RP Engine element rotations are single-axis 0/+-22.5/+-45 degrees"
+      ],
+      "modelId": "vanillamobs:phantom_adult",
+      "supported": false
+    },
+    {
+      "conditions": {
+        "age": "adult",
+        "equipment": "none",
+        "headPitchDegrees": 0,
+        "headYawDegrees": 0,
+        "invisible": false,
+        "moving": false,
+        "pose": "standing",
+        "saddle": false,
+        "upsideDown": false,
+        "variant": "minecraft:temperate"
+      },
+      "display": {
+        "offsetX": 0,
+        "offsetY": 0.001,
+        "offsetZ": 0,
+        "scale": 2.5,
+        "yawOffsetDegrees": 180
+      },
+      "entityType": "PIG",
+      "limitations": [
+        "Static snapshot of the official default render state; no animation, movement, equipment or unlisted appearance is covered."
+      ],
+      "modelId": "vanillamobs:pig_adult",
+      "supported": true
+    },
+    {
+      "conditions": {
+        "age": "adult",
+        "equipment": "none",
+        "headPitchDegrees": 0,
+        "headYawDegrees": 0,
+        "invisible": false,
+        "moving": false,
+        "pose": "standing",
+        "upsideDown": false,
+        "variant": "minecraft:piglin"
+      },
+      "display": {
+        "offsetX": 0,
+        "offsetY": 0.001,
+        "offsetZ": 0,
+        "scale": 2.5,
+        "yawOffsetDegrees": 180
+      },
+      "entityType": "PIGLIN",
+      "limitations": [
+        "Static snapshot of the official default render state; no animation, movement, equipment or unlisted appearance is covered.",
+        "Dance-compatible static model uses the official bind pose; ears use the nearest lossless RP Engine angle of 22.5 degrees.",
+        "Delivered with the official bind pose, not the vanilla idle pose.",
+        "Dance pose substitutes the official -30 degree left ear bind angle with -22.5 degrees.",
+        "Dance pose substitutes the official 30 degree right ear bind angle with 22.5 degrees."
+      ],
+      "modelId": "vanillamobs:piglin_adult",
+      "supported": true
+    },
+    {
+      "conditions": {
+        "age": "adult",
+        "equipment": "none",
+        "headPitchDegrees": 0,
+        "headYawDegrees": 0,
+        "invisible": false,
+        "moving": false,
+        "pose": "standing",
+        "upsideDown": false,
+        "variant": "minecraft:piglin_brute"
+      },
+      "display": {
+        "offsetX": 0,
+        "offsetY": 0.001,
+        "offsetZ": 0,
+        "scale": 2.5,
+        "yawOffsetDegrees": 180
+      },
+      "entityType": "PIGLIN_BRUTE",
+      "limitations": [
+        "Static snapshot of the official default render state; no animation, movement, equipment or unlisted appearance is covered.",
+        "Dance-compatible static model uses the official bind pose and official brute texture; ears use the nearest lossless RP Engine angle of 22.5 degrees.",
+        "Delivered with the official bind pose, not the vanilla idle pose.",
+        "Dance pose substitutes the official -30 degree left ear bind angle with -22.5 degrees.",
+        "Dance pose substitutes the official 30 degree right ear bind angle with 22.5 degrees."
+      ],
+      "modelId": "vanillamobs:piglin_brute_adult",
+      "supported": true
+    },
+    {
+      "conditions": {
+        "age": "adult",
+        "equipment": "none",
+        "headPitchDegrees": 0,
+        "headYawDegrees": 0,
+        "invisible": false,
+        "moving": false,
+        "pose": "standing",
+        "upsideDown": false,
+        "variant": "minecraft:pillager"
+      },
+      "display": {
+        "offsetX": 0,
+        "offsetY": 0.001,
+        "offsetZ": 0,
+        "scale": 2.5,
+        "yawOffsetDegrees": 180
+      },
+      "entityType": "PILLAGER",
+      "limitations": [
+        "Static snapshot of the official default render state; no animation, movement, equipment or unlisted appearance is covered."
+      ],
+      "modelId": "vanillamobs:pillager_adult",
+      "supported": true
+    },
+    {
+      "conditions": {
+        "age": "adult",
+        "equipment": "none",
+        "headPitchDegrees": 0,
+        "headYawDegrees": 0,
+        "invisible": false,
+        "moving": false,
+        "pose": "standing",
+        "upsideDown": false,
+        "variant": "minecraft:polar_bear"
+      },
+      "display": {
+        "offsetX": 0,
+        "offsetY": 0.001,
+        "offsetZ": 0,
+        "scale": 2.5,
+        "yawOffsetDegrees": 180
+      },
+      "entityType": "POLAR_BEAR",
+      "limitations": [
+        "Static snapshot of the official default render state; no animation, movement, equipment or unlisted appearance is covered."
+      ],
+      "modelId": "vanillamobs:polar_bear_adult",
+      "supported": true
+    },
+    {
+      "conditions": {
+        "age": "adult",
+        "equipment": "none",
+        "headPitchDegrees": 0,
+        "headYawDegrees": 0,
+        "invisible": false,
+        "moving": false,
+        "pose": "standing",
+        "upsideDown": false,
+        "variant": "minecraft:pufferfish"
+      },
+      "display": {
+        "offsetX": 0,
+        "offsetY": 0.001,
+        "offsetZ": 0,
+        "scale": 2.5,
+        "yawOffsetDegrees": 180
+      },
+      "entityType": "PUFFERFISH",
+      "limitations": [
+        "Static snapshot of the official default render state; no animation, movement, equipment or unlisted appearance is covered.",
+        "main/root/left_blue_fin/0: Non-representable orientation: RP Engine element rotations are single-axis 0/+-22.5/+-45 degrees"
+      ],
+      "modelId": "vanillamobs:pufferfish_adult",
+      "supported": false
+    },
+    {
+      "conditions": {
+        "age": "adult",
+        "equipment": "none",
+        "headPitchDegrees": 0,
+        "headYawDegrees": 0,
+        "invisible": false,
+        "moving": false,
+        "pose": "standing",
+        "upsideDown": false,
+        "variant": "minecraft:brown"
+      },
+      "display": {
+        "offsetX": 0,
+        "offsetY": 0.001,
+        "offsetZ": 0,
+        "scale": 2.5,
+        "yawOffsetDegrees": 180
+      },
+      "entityType": "RABBIT",
+      "limitations": [
+        "Static snapshot of the official default render state; no animation, movement, equipment or unlisted appearance is covered."
+      ],
+      "modelId": "vanillamobs:rabbit_adult",
+      "supported": true
+    },
+    {
+      "conditions": {
+        "age": "adult",
+        "equipment": "none",
+        "headPitchDegrees": 0,
+        "headYawDegrees": 0,
+        "invisible": false,
+        "moving": false,
+        "pose": "standing",
+        "upsideDown": false,
+        "variant": "minecraft:ravager"
+      },
+      "display": {
+        "offsetX": 0,
+        "offsetY": 0.001,
+        "offsetZ": 0,
+        "scale": 2.5,
+        "yawOffsetDegrees": 180
+      },
+      "entityType": "RAVAGER",
+      "limitations": [
+        "Static snapshot of the official default render state; no animation, movement, equipment or unlisted appearance is covered.",
+        "main/root/neck/head/left_horn/0: Non-representable orientation: RP Engine element rotations are single-axis 0/+-22.5/+-45 degrees"
+      ],
+      "modelId": "vanillamobs:ravager_adult",
+      "supported": false
+    },
+    {
+      "conditions": {
+        "age": "adult",
+        "equipment": "none",
+        "headPitchDegrees": 0,
+        "headYawDegrees": 0,
+        "invisible": false,
+        "moving": false,
+        "pose": "standing",
+        "upsideDown": false,
+        "variant": "minecraft:salmon"
+      },
+      "display": {
+        "offsetX": 0,
+        "offsetY": 0.001,
+        "offsetZ": 0,
+        "scale": 2.5,
+        "yawOffsetDegrees": 180
+      },
+      "entityType": "SALMON",
+      "limitations": [
+        "Static snapshot of the official default render state; no animation, movement, equipment or unlisted appearance is covered."
+      ],
+      "modelId": "vanillamobs:salmon_adult",
+      "supported": true
+    },
+    {
+      "conditions": {
+        "age": "adult",
+        "color": "white",
+        "equipment": "none",
+        "headPitchDegrees": 0,
+        "headYawDegrees": 0,
+        "invisible": false,
+        "jeb": false,
+        "moving": false,
+        "pose": "standing",
+        "sheared": false,
+        "upsideDown": false,
+        "variant": "minecraft:sheep"
+      },
+      "display": {
+        "offsetX": 0,
+        "offsetY": 0.001,
+        "offsetZ": 0,
+        "scale": 2.5,
+        "yawOffsetDegrees": 180
+      },
+      "entityType": "SHEEP",
+      "limitations": [
+        "Static snapshot of the official default render state; no animation, movement, equipment or unlisted appearance is covered.",
+        "Official SheepWoolUndercoatLayer skips WHITE non-jeb sheep; that layer is intentionally absent, matching the game.",
+        "Wool RGB multiplier is baked into an 8-bit PNG; maximum channel quantization error is 0.5/255."
+      ],
+      "modelId": "vanillamobs:sheep_adult",
+      "supported": true
+    },
+    {
+      "conditions": {
+        "age": "adult",
+        "equipment": "none",
+        "headPitchDegrees": 0,
+        "headYawDegrees": 0,
+        "invisible": false,
+        "moving": false,
+        "pose": "standing",
+        "upsideDown": false,
+        "variant": "minecraft:shulker"
+      },
+      "display": {
+        "offsetX": 0,
+        "offsetY": 0.001,
+        "offsetZ": 0,
+        "scale": 2.5,
+        "yawOffsetDegrees": 180
+      },
+      "entityType": "SHULKER",
+      "limitations": [
+        "Static snapshot of the official default render state; no animation, movement, equipment or unlisted appearance is covered."
+      ],
+      "modelId": "vanillamobs:shulker_adult",
+      "supported": true
+    },
+    {
+      "conditions": {
+        "age": "adult",
+        "equipment": "none",
+        "headPitchDegrees": 0,
+        "headYawDegrees": 0,
+        "invisible": false,
+        "moving": false,
+        "pose": "standing",
+        "upsideDown": false,
+        "variant": "minecraft:silverfish"
+      },
+      "display": {
+        "offsetX": 0,
+        "offsetY": 0.001,
+        "offsetZ": 0,
+        "scale": 2.5,
+        "yawOffsetDegrees": 180
+      },
+      "entityType": "SILVERFISH",
+      "limitations": [
+        "Static snapshot of the official default render state; no animation, movement, equipment or unlisted appearance is covered.",
+        "main/root/layer0/0: Non-representable orientation: RP Engine element rotations are single-axis 0/+-22.5/+-45 degrees"
+      ],
+      "modelId": "vanillamobs:silverfish_adult",
+      "supported": false
+    },
+    {
+      "conditions": {
+        "age": "adult",
+        "equipment": "none",
+        "headPitchDegrees": 0,
+        "headYawDegrees": 0,
+        "invisible": false,
+        "moving": false,
+        "pose": "standing",
+        "upsideDown": false,
+        "variant": "minecraft:skeleton"
+      },
+      "display": {
+        "offsetX": 0,
+        "offsetY": 0.001,
+        "offsetZ": 0,
+        "scale": 2.5,
+        "yawOffsetDegrees": 180
+      },
+      "entityType": "SKELETON",
+      "limitations": [
+        "Static snapshot of the official default render state; no animation, movement, equipment or unlisted appearance is covered.",
+        "Dance-compatible static model uses the official bind pose with empty hands.",
+        "Delivered with the official bind pose, not the vanilla idle pose."
+      ],
+      "modelId": "vanillamobs:skeleton_adult",
+      "supported": true
+    },
+    {
+      "conditions": {
+        "age": "adult",
+        "equipment": "none",
+        "headPitchDegrees": 0,
+        "headYawDegrees": 0,
+        "invisible": false,
+        "moving": false,
+        "pose": "standing",
+        "upsideDown": false,
+        "variant": "minecraft:skeleton_horse"
+      },
+      "display": {
+        "offsetX": 0,
+        "offsetY": 0.001,
+        "offsetZ": 0,
+        "scale": 2.5,
+        "yawOffsetDegrees": 180
+      },
+      "entityType": "SKELETON_HORSE",
+      "limitations": [
+        "Static snapshot of the official default render state; no animation, movement, equipment or unlisted appearance is covered.",
+        "main/root/body/tail/0: Non-representable orientation: RP Engine element rotations are single-axis 0/+-22.5/+-45 degrees"
+      ],
+      "modelId": "vanillamobs:skeleton_horse_adult",
+      "supported": false
+    },
+    {
+      "conditions": {
+        "age": "adult",
+        "equipment": "none",
+        "headPitchDegrees": 0,
+        "headYawDegrees": 0,
+        "invisible": false,
+        "moving": false,
+        "pose": "standing",
+        "size": 1,
+        "upsideDown": false,
+        "variant": "minecraft:slime"
+      },
+      "display": {
+        "offsetX": 0,
+        "offsetY": 0.001,
+        "offsetZ": 0,
+        "scale": 2.5,
+        "yawOffsetDegrees": 180
+      },
+      "entityType": "SLIME",
+      "limitations": [
+        "Static snapshot of the official default render state; no animation, movement, equipment or unlisted appearance is covered.",
+        "SlimeModel has no setupAnim; the official bind pose is used.",
+        "Slime size 1 (smallest) is the covered appearance; larger sizes are not matched.",
+        "outer layer model has no setupAnim; official bind pose used.",
+        "Base model has no setupAnim; official bind pose used."
+      ],
+      "modelId": "vanillamobs:slime_adult",
+      "supported": true
+    },
+    {
+      "conditions": {
+        "age": "adult",
+        "equipment": "none",
+        "headPitchDegrees": 0,
+        "headYawDegrees": 0,
+        "invisible": false,
+        "moving": false,
+        "pose": "standing",
+        "upsideDown": false,
+        "variant": "minecraft:sniffer"
+      },
+      "display": {
+        "offsetX": 0,
+        "offsetY": 0.001,
+        "offsetZ": 0,
+        "scale": 2.5,
+        "yawOffsetDegrees": 180
+      },
+      "entityType": "SNIFFER",
+      "limitations": [
+        "Static snapshot of the official default render state; no animation, movement, equipment or unlisted appearance is covered."
+      ],
+      "modelId": "vanillamobs:sniffer_adult",
+      "supported": true
+    },
+    {
+      "conditions": {
+        "age": "adult",
+        "equipment": "none",
+        "headPitchDegrees": 0,
+        "headYawDegrees": 0,
+        "invisible": false,
+        "moving": false,
+        "pose": "standing",
+        "upsideDown": false,
+        "variant": "minecraft:spider"
+      },
+      "display": {
+        "offsetX": 0,
+        "offsetY": 0.001,
+        "offsetZ": 0,
+        "scale": 2.5,
+        "yawOffsetDegrees": 180
+      },
+      "entityType": "SPIDER",
+      "limitations": [
+        "Static snapshot of the official default render state; no animation, movement, equipment or unlisted appearance is covered.",
+        "Dance-compatible static pose keeps the official leg yaw but removes leg roll so each cube uses one RP Engine rotation axis.",
+        "Dance pose removes left_front_leg roll while preserving official yaw.",
+        "Dance pose removes left_hind_leg roll while preserving official yaw.",
+        "Dance pose removes left_middle_front_leg roll while preserving official yaw.",
+        "Dance pose removes left_middle_hind_leg roll while preserving official yaw.",
+        "Dance pose removes right_front_leg roll while preserving official yaw.",
+        "Dance pose removes right_hind_leg roll while preserving official yaw.",
+        "Dance pose removes right_middle_front_leg roll while preserving official yaw.",
+        "Dance pose removes right_middle_hind_leg roll while preserving official yaw."
+      ],
+      "modelId": "vanillamobs:spider_adult",
+      "supported": true
+    },
+    {
+      "conditions": {
+        "age": "adult",
+        "equipment": "none",
+        "headPitchDegrees": 0,
+        "headYawDegrees": 0,
+        "invisible": false,
+        "moving": false,
+        "pose": "standing",
+        "upsideDown": false,
+        "variant": "minecraft:squid"
+      },
+      "display": {
+        "offsetX": 0,
+        "offsetY": 0.001,
+        "offsetZ": 0,
+        "scale": 2.5,
+        "yawOffsetDegrees": 180
+      },
+      "entityType": "SQUID",
+      "limitations": [
+        "Static snapshot of the official default render state; no animation, movement, equipment or unlisted appearance is covered."
+      ],
+      "modelId": "vanillamobs:squid_adult",
+      "supported": true
+    },
+    {
+      "conditions": {
+        "age": "adult",
+        "equipment": "none",
+        "headPitchDegrees": 0,
+        "headYawDegrees": 0,
+        "invisible": false,
+        "moving": false,
+        "pose": "standing",
+        "upsideDown": false,
+        "variant": "minecraft:stray"
+      },
+      "display": {
+        "offsetX": 0,
+        "offsetY": 0.001,
+        "offsetZ": 0,
+        "scale": 2.5,
+        "yawOffsetDegrees": 180
+      },
+      "entityType": "STRAY",
+      "limitations": [
+        "Static snapshot of the official default render state; no animation, movement, equipment or unlisted appearance is covered.",
+        "Dance-compatible static model uses the official bind pose with its official clothing layer and empty hands.",
+        "Delivered with the official bind pose, not the vanilla idle pose.",
+        "clothing layer uses its official bind pose to match the simplified dance pose."
+      ],
+      "modelId": "vanillamobs:stray_adult",
+      "supported": true
+    },
+    {
+      "conditions": {
+        "age": "adult",
+        "equipment": "none",
+        "headPitchDegrees": 0,
+        "headYawDegrees": 0,
+        "invisible": false,
+        "moving": false,
+        "pose": "standing",
+        "upsideDown": false,
+        "variant": "minecraft:strider"
+      },
+      "display": {
+        "offsetX": 0,
+        "offsetY": 0.001,
+        "offsetZ": 0,
+        "scale": 2.5,
+        "yawOffsetDegrees": 180
+      },
+      "entityType": "STRIDER",
+      "limitations": [
+        "Static snapshot of the official default render state; no animation, movement, equipment or unlisted appearance is covered.",
+        "main/root/body/left_bottom_bristle/0: Non-representable orientation: RP Engine element rotations are single-axis 0/+-22.5/+-45 degrees"
+      ],
+      "modelId": "vanillamobs:strider_adult",
+      "supported": false
+    },
+    {
+      "conditions": {
+        "age": "adult",
+        "equipment": "none",
+        "headPitchDegrees": 0,
+        "headYawDegrees": 0,
+        "invisible": false,
+        "moving": false,
+        "pose": "standing",
+        "size": 1,
+        "upsideDown": false,
+        "variant": "minecraft:sulfur_cube"
+      },
+      "display": {
+        "offsetX": 0,
+        "offsetY": 0.001,
+        "offsetZ": 0,
+        "scale": 2.5,
+        "yawOffsetDegrees": 180
+      },
+      "entityType": "SULFUR_CUBE",
+      "limitations": [
+        "Static snapshot of the official default render state; no animation, movement, equipment or unlisted appearance is covered.",
+        "SulfurCubeModel has no setupAnim; the official bind pose is used.",
+        "Default normal size is covered; the small-size model is not matched.",
+        "inner layer model has no setupAnim; official bind pose used.",
+        "Base model has no setupAnim; official bind pose used."
+      ],
+      "modelId": "vanillamobs:sulfur_cube_adult",
+      "supported": true
+    },
+    {
+      "conditions": {
+        "age": "adult",
+        "equipment": "none",
+        "headPitchDegrees": 0,
+        "headYawDegrees": 0,
+        "invisible": false,
+        "moving": false,
+        "pose": "standing",
+        "upsideDown": false,
+        "variant": "minecraft:tadpole"
+      },
+      "display": {
+        "offsetX": 0,
+        "offsetY": 0.001,
+        "offsetZ": 0,
+        "scale": 2.5,
+        "yawOffsetDegrees": 180
+      },
+      "entityType": "TADPOLE",
+      "limitations": [
+        "Static snapshot of the official default render state; no animation, movement, equipment or unlisted appearance is covered."
+      ],
+      "modelId": "vanillamobs:tadpole_adult",
+      "supported": true
+    },
+    {
+      "conditions": {
+        "age": "adult",
+        "decor": "none",
+        "equipment": "none",
+        "headPitchDegrees": 0,
+        "headYawDegrees": 0,
+        "invisible": false,
+        "moving": false,
+        "pose": "standing",
+        "saddle": false,
+        "upsideDown": false,
+        "variant": "minecraft:creamy"
+      },
+      "display": {
+        "offsetX": 0,
+        "offsetY": 0.001,
+        "offsetZ": 0,
+        "scale": 2.5,
+        "yawOffsetDegrees": 180
+      },
+      "entityType": "TRADER_LLAMA",
+      "limitations": [
+        "Static snapshot of the official default render state; no animation, movement, equipment or unlisted appearance is covered."
+      ],
+      "modelId": "vanillamobs:trader_llama_adult",
+      "supported": true
+    },
+    {
+      "conditions": {
+        "age": "adult",
+        "baseColor": "white",
+        "equipment": "none",
+        "headPitchDegrees": 0,
+        "headYawDegrees": 0,
+        "invisible": false,
+        "moving": false,
+        "pattern": "kob",
+        "patternColor": "white",
+        "pose": "standing",
+        "shape": "small",
+        "upsideDown": false,
+        "variant": "minecraft:tropical_fish"
+      },
+      "display": {
+        "offsetX": 0,
+        "offsetY": 0.001,
+        "offsetZ": 0,
+        "scale": 2.5,
+        "yawOffsetDegrees": 180
+      },
+      "entityType": "TROPICAL_FISH",
+      "limitations": [
+        "Static snapshot of the official default render state; no animation, movement, equipment or unlisted appearance is covered.",
+        "Only the small shape with pattern_1 and white base/pattern colours is covered; other shapes, patterns and colours are not matched."
+      ],
+      "modelId": "vanillamobs:tropical_fish_adult",
+      "supported": true
+    },
+    {
+      "conditions": {
+        "age": "adult",
+        "equipment": "none",
+        "headPitchDegrees": 0,
+        "headYawDegrees": 0,
+        "invisible": false,
+        "moving": false,
+        "pose": "standing",
+        "upsideDown": false,
+        "variant": "minecraft:turtle"
+      },
+      "display": {
+        "offsetX": 0,
+        "offsetY": 0.001,
+        "offsetZ": 0,
+        "scale": 2.5,
+        "yawOffsetDegrees": 180
+      },
+      "entityType": "TURTLE",
+      "limitations": [
+        "Static snapshot of the official default render state; no animation, movement, equipment or unlisted appearance is covered."
+      ],
+      "modelId": "vanillamobs:turtle_adult",
+      "supported": true
+    },
+    {
+      "conditions": {
+        "age": "adult",
+        "equipment": "none",
+        "headPitchDegrees": 0,
+        "headYawDegrees": 0,
+        "invisible": false,
+        "moving": false,
+        "pose": "standing",
+        "upsideDown": false,
+        "variant": "minecraft:vex"
+      },
+      "display": {
+        "offsetX": 0,
+        "offsetY": 0.001,
+        "offsetZ": 0,
+        "scale": 2.5,
+        "yawOffsetDegrees": 180
+      },
+      "entityType": "VEX",
+      "limitations": [
+        "Static snapshot of the official default render state; no animation, movement, equipment or unlisted appearance is covered.",
+        "main/root/body/0: Non-representable orientation: RP Engine element rotations are single-axis 0/+-22.5/+-45 degrees"
+      ],
+      "modelId": "vanillamobs:vex_adult",
+      "supported": false
+    },
+    {
+      "conditions": {
+        "age": "adult",
+        "equipment": "none",
+        "headPitchDegrees": 0,
+        "headYawDegrees": 0,
+        "heldItem": "none",
+        "invisible": false,
+        "moving": false,
+        "pose": "standing",
+        "profession": "none",
+        "professionLevel": 1,
+        "unhappy": false,
+        "upsideDown": false,
+        "variant": "minecraft:plains",
+        "villagerType": "plains"
+      },
+      "display": {
+        "offsetX": 0,
+        "offsetY": 0.001,
+        "offsetZ": 0,
+        "scale": 2.5,
+        "yawOffsetDegrees": 180
+      },
+      "entityType": "VILLAGER",
+      "limitations": [
+        "Static snapshot of the official default render state; no animation, movement, equipment or unlisted appearance is covered.",
+        "Adult plains villager, profession NONE, level 1 only; other types/professions and babies are not matched.",
+        "Official VillagerProfessionLayer uses the parent model for plains/NONE (no profession hat); its binary-alpha plains clothing is composited onto the base PNG without adding coincident cubes.",
+        "The static dance model substitutes the official folded-arms x rotation of -0.75 radians (-42.9718346348 degrees) with the nearest RP Engine lossless angle, -45 degrees; all other transforms remain official.",
+        "User-authorized dance-compatible static pose: folded arms use -45 degrees instead of the official -42.9718346348 degrees (difference 2.0281653652 degrees)."
+      ],
+      "modelId": "vanillamobs:villager_adult",
+      "supported": true
+    },
+    {
+      "conditions": {
+        "age": "adult",
+        "aggressive": false,
+        "equipment": "none",
+        "headPitchDegrees": 0,
+        "headYawDegrees": 0,
+        "heldItem": "none",
+        "invisible": false,
+        "moving": false,
+        "pose": "standing",
+        "upsideDown": false,
+        "variant": "minecraft:vindicator"
+      },
+      "display": {
+        "offsetX": 0,
+        "offsetY": 0.001,
+        "offsetZ": 0,
+        "scale": 2.5,
+        "yawOffsetDegrees": 180
+      },
+      "entityType": "VINDICATOR",
+      "limitations": [
+        "Static snapshot of the official default render state; no animation, movement, equipment or unlisted appearance is covered."
+      ],
+      "modelId": "vanillamobs:vindicator_adult",
+      "supported": true
+    },
+    {
+      "conditions": {
+        "age": "adult",
+        "equipment": "none",
+        "headPitchDegrees": 0,
+        "headYawDegrees": 0,
+        "invisible": false,
+        "moving": false,
+        "pose": "standing",
+        "upsideDown": false,
+        "variant": "minecraft:wandering_trader"
+      },
+      "display": {
+        "offsetX": 0,
+        "offsetY": 0.001,
+        "offsetZ": 0,
+        "scale": 2.5,
+        "yawOffsetDegrees": 180
+      },
+      "entityType": "WANDERING_TRADER",
+      "limitations": [
+        "Static snapshot of the official default render state; no animation, movement, equipment or unlisted appearance is covered.",
+        "main/root/arms/0: Non-representable orientation: RP Engine element rotations are single-axis 0/+-22.5/+-45 degrees"
+      ],
+      "modelId": "vanillamobs:wandering_trader_adult",
+      "supported": false
+    },
+    {
+      "conditions": {
+        "age": "adult",
+        "equipment": "none",
+        "headPitchDegrees": 0,
+        "headYawDegrees": 0,
+        "invisible": false,
+        "moving": false,
+        "pose": "standing",
+        "upsideDown": false,
+        "variant": "minecraft:warden"
+      },
+      "display": {
+        "offsetX": 0,
+        "offsetY": 0.001,
+        "offsetZ": 0,
+        "scale": 2.5,
+        "yawOffsetDegrees": 180
+      },
+      "entityType": "WARDEN",
+      "limitations": [
+        "Static snapshot of the official default render state; no animation, movement, equipment or unlisted appearance is covered.",
+        "main/root/bone/body/0: Non-representable orientation: RP Engine element rotations are single-axis 0/+-22.5/+-45 degrees"
+      ],
+      "modelId": "vanillamobs:warden_adult",
+      "supported": false
+    },
+    {
+      "conditions": {
+        "age": "adult",
+        "equipment": "none",
+        "headPitchDegrees": 0,
+        "headYawDegrees": 0,
+        "invisible": false,
+        "moving": false,
+        "pose": "standing",
+        "upsideDown": false,
+        "variant": "minecraft:witch"
+      },
+      "display": {
+        "offsetX": 0,
+        "offsetY": 0.001,
+        "offsetZ": 0,
+        "scale": 2.5,
+        "yawOffsetDegrees": 180
+      },
+      "entityType": "WITCH",
+      "limitations": [
+        "Static snapshot of the official default render state; no animation, movement, equipment or unlisted appearance is covered.",
+        "main/root/arms/0: Non-representable orientation: RP Engine element rotations are single-axis 0/+-22.5/+-45 degrees"
+      ],
+      "modelId": "vanillamobs:witch_adult",
+      "supported": false
+    },
+    {
+      "conditions": {
+        "age": "adult",
+        "equipment": "none",
+        "headPitchDegrees": 0,
+        "headYawDegrees": 0,
+        "invisible": false,
+        "moving": false,
+        "pose": "standing",
+        "upsideDown": false,
+        "variant": "minecraft:wither"
+      },
+      "display": {
+        "offsetX": 0,
+        "offsetY": 0.001,
+        "offsetZ": 0,
+        "scale": 2.5,
+        "yawOffsetDegrees": 180
+      },
+      "entityType": "WITHER",
+      "limitations": [
+        "Static snapshot of the official default render state; no animation, movement, equipment or unlisted appearance is covered.",
+        "main/root/ribcage/0: Non-representable orientation: RP Engine element rotations are single-axis 0/+-22.5/+-45 degrees"
+      ],
+      "modelId": "vanillamobs:wither_adult",
+      "supported": false
+    },
+    {
+      "conditions": {
+        "age": "adult",
+        "equipment": "none",
+        "headPitchDegrees": 0,
+        "headYawDegrees": 0,
+        "invisible": false,
+        "moving": false,
+        "pose": "standing",
+        "upsideDown": false,
+        "variant": "minecraft:wither_skeleton"
+      },
+      "display": {
+        "offsetX": 0,
+        "offsetY": 0.001,
+        "offsetZ": 0,
+        "scale": 2.5,
+        "yawOffsetDegrees": 180
+      },
+      "entityType": "WITHER_SKELETON",
+      "limitations": [
+        "Static snapshot of the official default render state; no animation, movement, equipment or unlisted appearance is covered.",
+        "Dance-compatible static model uses the official bind pose with empty hands.",
+        "Delivered with the official bind pose, not the vanilla idle pose."
+      ],
+      "modelId": "vanillamobs:wither_skeleton_adult",
+      "supported": true
+    },
+    {
+      "conditions": {
+        "age": "adult",
+        "angry": false,
+        "collar": "none",
+        "equipment": "none",
+        "headPitchDegrees": 0,
+        "headYawDegrees": 0,
+        "invisible": false,
+        "moving": false,
+        "pose": "standing",
+        "tame": false,
+        "upsideDown": false,
+        "variant": "minecraft:pale"
+      },
+      "display": {
+        "offsetX": 0,
+        "offsetY": 0.001,
+        "offsetZ": 0,
+        "scale": 2.5,
+        "yawOffsetDegrees": 180
+      },
+      "entityType": "WOLF",
+      "limitations": [
+        "Static snapshot of the official default render state; no animation, movement, equipment or unlisted appearance is covered.",
+        "main/root/tail/real_tail/0: Non-representable orientation: RP Engine element rotations are single-axis 0/+-22.5/+-45 degrees"
+      ],
+      "modelId": "vanillamobs:wolf_adult",
+      "supported": false
+    },
+    {
+      "conditions": {
+        "age": "adult",
+        "equipment": "none",
+        "headPitchDegrees": 0,
+        "headYawDegrees": 0,
+        "invisible": false,
+        "moving": false,
+        "pose": "standing",
+        "upsideDown": false,
+        "variant": "minecraft:zoglin"
+      },
+      "display": {
+        "offsetX": 0,
+        "offsetY": 0.001,
+        "offsetZ": 0,
+        "scale": 2.5,
+        "yawOffsetDegrees": 180
+      },
+      "entityType": "ZOGLIN",
+      "limitations": [
+        "Static snapshot of the official default render state; no animation, movement, equipment or unlisted appearance is covered.",
+        "main/root/head/0: Non-representable orientation: RP Engine element rotations are single-axis 0/+-22.5/+-45 degrees"
+      ],
+      "modelId": "vanillamobs:zoglin_adult",
+      "supported": false
+    },
+    {
+      "conditions": {
+        "age": "adult",
+        "equipment": "none",
+        "headPitchDegrees": 0,
+        "headYawDegrees": 0,
+        "invisible": false,
+        "moving": false,
+        "pose": "standing",
+        "upsideDown": false,
+        "variant": "minecraft:zombie"
+      },
+      "display": {
+        "offsetX": 0,
+        "offsetY": 0.001,
+        "offsetZ": 0,
+        "scale": 2.5,
+        "yawOffsetDegrees": 180
+      },
+      "entityType": "ZOMBIE",
+      "limitations": [
+        "Static snapshot of the official default render state; no animation, movement, equipment or unlisted appearance is covered.",
+        "Static model uses the official model bind pose (arms down). The vanilla zombie idle pose has approximately x=-80°, y=±5.73°, z=±5.73° arm rotations; a single RP Engine static ITEM cannot express that multi-axis pose.",
+        "This is an explicitly permitted static replacement pose, not a claim that the vanilla idle pose is reproduced.",
+        "Delivered with the official bind pose, not the vanilla idle pose."
+      ],
+      "modelId": "vanillamobs:zombie_adult",
+      "supported": true
+    },
+    {
+      "conditions": {
+        "age": "adult",
+        "equipment": "none",
+        "headPitchDegrees": 0,
+        "headYawDegrees": 0,
+        "invisible": false,
+        "moving": false,
+        "pose": "standing",
+        "upsideDown": false,
+        "variant": "minecraft:zombie_horse"
+      },
+      "display": {
+        "offsetX": 0,
+        "offsetY": 0.001,
+        "offsetZ": 0,
+        "scale": 2.5,
+        "yawOffsetDegrees": 180
+      },
+      "entityType": "ZOMBIE_HORSE",
+      "limitations": [
+        "Static snapshot of the official default render state; no animation, movement, equipment or unlisted appearance is covered.",
+        "main/root/body/tail/0: Non-representable orientation: RP Engine element rotations are single-axis 0/+-22.5/+-45 degrees"
+      ],
+      "modelId": "vanillamobs:zombie_horse_adult",
+      "supported": false
+    },
+    {
+      "conditions": {
+        "age": "adult",
+        "armor": "none",
+        "equipment": "none",
+        "headPitchDegrees": 0,
+        "headYawDegrees": 0,
+        "invisible": false,
+        "moving": false,
+        "pose": "standing",
+        "saddle": false,
+        "upsideDown": false,
+        "variant": "minecraft:temperate"
+      },
+      "display": {
+        "offsetX": 0,
+        "offsetY": 0.001,
+        "offsetZ": 0,
+        "scale": 2.5,
+        "yawOffsetDegrees": 180
+      },
+      "entityType": "ZOMBIE_NAUTILUS",
+      "limitations": [
+        "Static snapshot of the official default render state; no animation, movement, equipment or unlisted appearance is covered."
+      ],
+      "modelId": "vanillamobs:zombie_nautilus_adult",
+      "supported": true
+    },
+    {
+      "conditions": {
+        "age": "adult",
+        "equipment": "none",
+        "headPitchDegrees": 0,
+        "headYawDegrees": 0,
+        "heldItem": "none",
+        "invisible": false,
+        "moving": false,
+        "pose": "standing",
+        "profession": "none",
+        "professionLevel": 1,
+        "upsideDown": false,
+        "variant": "minecraft:plains",
+        "villagerType": "plains"
+      },
+      "display": {
+        "offsetX": 0,
+        "offsetY": 0.001,
+        "offsetZ": 0,
+        "scale": 2.5,
+        "yawOffsetDegrees": 180
+      },
+      "entityType": "ZOMBIE_VILLAGER",
+      "limitations": [
+        "Static snapshot of the official default render state; no animation, movement, equipment or unlisted appearance is covered.",
+        "Adult plains, unemployed level-1 appearance only; dance-compatible static model uses the official bind pose with arms down.",
+        "Delivered with the official bind pose, not the vanilla idle pose."
+      ],
+      "modelId": "vanillamobs:zombie_villager_adult",
+      "supported": true
+    },
+    {
+      "conditions": {
+        "age": "adult",
+        "equipment": "none",
+        "headPitchDegrees": 0,
+        "headYawDegrees": 0,
+        "invisible": false,
+        "moving": false,
+        "pose": "standing",
+        "upsideDown": false,
+        "variant": "minecraft:zombified_piglin"
+      },
+      "display": {
+        "offsetX": 0,
+        "offsetY": 0.001,
+        "offsetZ": 0,
+        "scale": 2.5,
+        "yawOffsetDegrees": 180
+      },
+      "entityType": "ZOMBIFIED_PIGLIN",
+      "limitations": [
+        "Static snapshot of the official default render state; no animation, movement, equipment or unlisted appearance is covered.",
+        "Dance-compatible static model uses the official bind pose; ears use the nearest lossless RP Engine angle of 22.5 degrees.",
+        "Delivered with the official bind pose, not the vanilla idle pose.",
+        "Dance pose substitutes the official -30 degree left ear bind angle with -22.5 degrees.",
+        "Dance pose substitutes the official 30 degree right ear bind angle with 22.5 degrees."
+      ],
+      "modelId": "vanillamobs:zombified_piglin_adult",
+      "supported": true
+    },
+    {
+      "conditions": {
+        "age": "baby",
+        "equipment": "none",
+        "headPitchDegrees": 0,
+        "headYawDegrees": 0,
+        "invisible": false,
+        "moving": false,
+        "pose": "standing",
+        "saddle": false,
+        "upsideDown": false,
+        "variant": "minecraft:camel"
+      },
+      "display": {
+        "offsetX": 0,
+        "offsetY": 0.001,
+        "offsetZ": 0,
+        "scale": 2.5,
+        "yawOffsetDegrees": 180
+      },
+      "entityType": "CAMEL",
+      "limitations": [
+        "Baby appearance uses the official baby ModelLayer and baby texture; static pose only.",
+        "Static snapshot of the official default render state; no animation, movement, equipment or unlisted appearance is covered."
+      ],
+      "modelId": "vanillamobs:camel_baby",
+      "supported": true
+    },
+    {
+      "conditions": {
+        "age": "baby",
+        "equipment": "none",
+        "headPitchDegrees": 0,
+        "headYawDegrees": 0,
+        "invisible": false,
+        "moving": false,
+        "pose": "standing",
+        "upsideDown": false,
+        "variant": "minecraft:temperate"
+      },
+      "display": {
+        "offsetX": 0,
+        "offsetY": 0.001,
+        "offsetZ": 0,
+        "scale": 2.5,
+        "yawOffsetDegrees": 180
+      },
+      "entityType": "CHICKEN",
+      "limitations": [
+        "Baby appearance uses the official baby ModelLayer and baby texture; static pose only.",
+        "Static snapshot of the official default render state; no animation, movement, equipment or unlisted appearance is covered."
+      ],
+      "modelId": "vanillamobs:chicken_baby",
+      "supported": true
+    },
+    {
+      "conditions": {
+        "age": "baby",
+        "equipment": "none",
+        "headPitchDegrees": 0,
+        "headYawDegrees": 0,
+        "invisible": false,
+        "moving": false,
+        "pose": "standing",
+        "upsideDown": false,
+        "variant": "minecraft:temperate"
+      },
+      "display": {
+        "offsetX": 0,
+        "offsetY": 0.001,
+        "offsetZ": 0,
+        "scale": 2.5,
+        "yawOffsetDegrees": 180
+      },
+      "entityType": "COW",
+      "limitations": [
+        "Baby appearance uses the official baby ModelLayer and baby texture; static pose only.",
+        "Static snapshot of the official default render state; no animation, movement, equipment or unlisted appearance is covered."
+      ],
+      "modelId": "vanillamobs:cow_baby",
+      "supported": true
+    },
+    {
+      "conditions": {
+        "age": "baby",
+        "equipment": "none",
+        "headPitchDegrees": 0,
+        "headYawDegrees": 0,
+        "invisible": false,
+        "moving": false,
+        "pose": "standing",
+        "upsideDown": false,
+        "variant": "minecraft:drowned"
+      },
+      "display": {
+        "offsetX": 0,
+        "offsetY": 0.001,
+        "offsetZ": 0,
+        "scale": 2.5,
+        "yawOffsetDegrees": 180
+      },
+      "entityType": "DROWNED",
+      "limitations": [
+        "Baby appearance uses the official baby ModelLayer and baby texture; static pose only.",
+        "main/root/left_arm/0: Non-representable orientation: RP Engine element rotations are single-axis 0/+-22.5/+-45 degrees"
+      ],
+      "modelId": "vanillamobs:drowned_baby",
+      "supported": false
+    },
+    {
+      "conditions": {
+        "age": "baby",
+        "equipment": "none",
+        "headPitchDegrees": 0,
+        "headYawDegrees": 0,
+        "invisible": false,
+        "moving": false,
+        "pose": "standing",
+        "upsideDown": false,
+        "variant": "minecraft:glow_squid"
+      },
+      "display": {
+        "offsetX": 0,
+        "offsetY": 0.001,
+        "offsetZ": 0,
+        "scale": 2.5,
+        "yawOffsetDegrees": 180
+      },
+      "entityType": "GLOW_SQUID",
+      "limitations": [
+        "Baby appearance uses the official baby ModelLayer and baby texture; static pose only.",
+        "Static snapshot of the official default render state; no animation, movement, equipment or unlisted appearance is covered."
+      ],
+      "modelId": "vanillamobs:glow_squid_baby",
+      "supported": true
+    },
+    {
+      "conditions": {
+        "age": "baby",
+        "equipment": "none",
+        "headPitchDegrees": 0,
+        "headYawDegrees": 0,
+        "invisible": false,
+        "moving": false,
+        "pose": "standing",
+        "upsideDown": false,
+        "variant": "minecraft:husk"
+      },
+      "display": {
+        "offsetX": 0,
+        "offsetY": 0.001,
+        "offsetZ": 0,
+        "scale": 2.5,
+        "yawOffsetDegrees": 180
+      },
+      "entityType": "HUSK",
+      "limitations": [
+        "Baby appearance uses the official baby ModelLayer and baby texture; static pose only.",
+        "main/root/left_arm/0: Non-representable orientation: RP Engine element rotations are single-axis 0/+-22.5/+-45 degrees"
+      ],
+      "modelId": "vanillamobs:husk_baby",
+      "supported": false
+    },
+    {
+      "conditions": {
+        "age": "baby",
+        "decor": "none",
+        "equipment": "none",
+        "headPitchDegrees": 0,
+        "headYawDegrees": 0,
+        "invisible": false,
+        "moving": false,
+        "pose": "standing",
+        "saddle": false,
+        "upsideDown": false,
+        "variant": "minecraft:creamy"
+      },
+      "display": {
+        "offsetX": 0,
+        "offsetY": 0.001,
+        "offsetZ": 0,
+        "scale": 2.5,
+        "yawOffsetDegrees": 180
+      },
+      "entityType": "LLAMA",
+      "limitations": [
+        "Baby appearance uses the official baby ModelLayer and baby texture; static pose only.",
+        "Static snapshot of the official default render state; no animation, movement, equipment or unlisted appearance is covered."
+      ],
+      "modelId": "vanillamobs:llama_baby",
+      "supported": true
+    },
+    {
+      "conditions": {
+        "age": "baby",
+        "armor": "none",
+        "equipment": "none",
+        "headPitchDegrees": 0,
+        "headYawDegrees": 0,
+        "invisible": false,
+        "moving": false,
+        "pose": "standing",
+        "saddle": false,
+        "upsideDown": false,
+        "variant": "minecraft:temperate"
+      },
+      "display": {
+        "offsetX": 0,
+        "offsetY": 0.001,
+        "offsetZ": 0,
+        "scale": 2.5,
+        "yawOffsetDegrees": 180
+      },
+      "entityType": "NAUTILUS",
+      "limitations": [
+        "Baby appearance uses the official baby ModelLayer and baby texture; static pose only.",
+        "Static snapshot of the official default render state; no animation, movement, equipment or unlisted appearance is covered."
+      ],
+      "modelId": "vanillamobs:nautilus_baby",
+      "supported": true
+    },
+    {
+      "conditions": {
+        "age": "baby",
+        "equipment": "none",
+        "headPitchDegrees": 0,
+        "headYawDegrees": 0,
+        "heldItem": "none",
+        "invisible": false,
+        "moving": false,
+        "pose": "standing",
+        "upsideDown": false,
+        "variant": "minecraft:normal"
+      },
+      "display": {
+        "offsetX": 0,
+        "offsetY": 0.001,
+        "offsetZ": 0,
+        "scale": 2.5,
+        "yawOffsetDegrees": 180
+      },
+      "entityType": "PANDA",
+      "limitations": [
+        "Baby appearance uses the official baby ModelLayer and baby texture; static pose only.",
+        "Static snapshot of the official default render state; no animation, movement, equipment or unlisted appearance is covered."
+      ],
+      "modelId": "vanillamobs:panda_baby",
+      "supported": true
+    },
+    {
+      "conditions": {
+        "age": "baby",
+        "equipment": "none",
+        "headPitchDegrees": 0,
+        "headYawDegrees": 0,
+        "invisible": false,
+        "moving": false,
+        "pose": "standing",
+        "saddle": false,
+        "upsideDown": false,
+        "variant": "minecraft:temperate"
+      },
+      "display": {
+        "offsetX": 0,
+        "offsetY": 0.001,
+        "offsetZ": 0,
+        "scale": 2.5,
+        "yawOffsetDegrees": 180
+      },
+      "entityType": "PIG",
+      "limitations": [
+        "Baby appearance uses the official baby ModelLayer and baby texture; static pose only.",
+        "Static snapshot of the official default render state; no animation, movement, equipment or unlisted appearance is covered."
+      ],
+      "modelId": "vanillamobs:pig_baby",
+      "supported": true
+    },
+    {
+      "conditions": {
+        "age": "baby",
+        "equipment": "none",
+        "headPitchDegrees": 0,
+        "headYawDegrees": 0,
+        "invisible": false,
+        "moving": false,
+        "pose": "standing",
+        "upsideDown": false,
+        "variant": "minecraft:piglin"
+      },
+      "display": {
+        "offsetX": 0,
+        "offsetY": 0.001,
+        "offsetZ": 0,
+        "scale": 2.5,
+        "yawOffsetDegrees": 180
+      },
+      "entityType": "PIGLIN",
+      "limitations": [
+        "Baby appearance uses the official baby ModelLayer and baby texture; static pose only.",
+        "main/root/head/left_ear/left_ear_r1/0: Non-representable orientation: RP Engine element rotations are single-axis 0/+-22.5/+-45 degrees"
+      ],
+      "modelId": "vanillamobs:piglin_baby",
+      "supported": false
+    },
+    {
+      "conditions": {
+        "age": "baby",
+        "equipment": "none",
+        "headPitchDegrees": 0,
+        "headYawDegrees": 0,
+        "invisible": false,
+        "moving": false,
+        "pose": "standing",
+        "upsideDown": false,
+        "variant": "minecraft:polar_bear"
+      },
+      "display": {
+        "offsetX": 0,
+        "offsetY": 0.001,
+        "offsetZ": 0,
+        "scale": 2.5,
+        "yawOffsetDegrees": 180
+      },
+      "entityType": "POLAR_BEAR",
+      "limitations": [
+        "Baby appearance uses the official baby ModelLayer and baby texture; static pose only.",
+        "Static snapshot of the official default render state; no animation, movement, equipment or unlisted appearance is covered."
+      ],
+      "modelId": "vanillamobs:polar_bear_baby",
+      "supported": true
+    },
+    {
+      "conditions": {
+        "age": "baby",
+        "equipment": "none",
+        "headPitchDegrees": 0,
+        "headYawDegrees": 0,
+        "invisible": false,
+        "moving": false,
+        "pose": "standing",
+        "upsideDown": false,
+        "variant": "minecraft:brown"
+      },
+      "display": {
+        "offsetX": 0,
+        "offsetY": 0.001,
+        "offsetZ": 0,
+        "scale": 2.5,
+        "yawOffsetDegrees": 180
+      },
+      "entityType": "RABBIT",
+      "limitations": [
+        "Baby appearance uses the official baby ModelLayer and baby texture; static pose only.",
+        "main/root/backlegs/right_hind_leg/right_haunch/0: Not an exact cuboid face: up"
+      ],
+      "modelId": "vanillamobs:rabbit_baby",
+      "supported": false
+    },
+    {
+      "conditions": {
+        "age": "baby",
+        "color": "white",
+        "equipment": "none",
+        "headPitchDegrees": 0,
+        "headYawDegrees": 0,
+        "invisible": false,
+        "jeb": false,
+        "moving": false,
+        "pose": "standing",
+        "sheared": false,
+        "upsideDown": false,
+        "variant": "minecraft:sheep"
+      },
+      "display": {
+        "offsetX": 0,
+        "offsetY": 0.001,
+        "offsetZ": 0,
+        "scale": 2.5,
+        "yawOffsetDegrees": 180
+      },
+      "entityType": "SHEEP",
+      "limitations": [
+        "Baby appearance uses the official baby ModelLayer and baby texture; static pose only.",
+        "Static snapshot of the official default render state; no animation, movement, equipment or unlisted appearance is covered."
+      ],
+      "modelId": "vanillamobs:sheep_baby",
+      "supported": true
+    },
+    {
+      "conditions": {
+        "age": "baby",
+        "equipment": "none",
+        "headPitchDegrees": 0,
+        "headYawDegrees": 0,
+        "invisible": false,
+        "moving": false,
+        "pose": "standing",
+        "upsideDown": false,
+        "variant": "minecraft:sniffer"
+      },
+      "display": {
+        "offsetX": 0,
+        "offsetY": 0.001,
+        "offsetZ": 0,
+        "scale": 2.5,
+        "yawOffsetDegrees": 180
+      },
+      "entityType": "SNIFFER",
+      "limitations": [
+        "Baby appearance uses the official baby ModelLayer and baby texture; static pose only.",
+        "Static snapshot of the official default render state; no animation, movement, equipment or unlisted appearance is covered."
+      ],
+      "modelId": "vanillamobs:sniffer_baby",
+      "supported": true
+    },
+    {
+      "conditions": {
+        "age": "baby",
+        "equipment": "none",
+        "headPitchDegrees": 0,
+        "headYawDegrees": 0,
+        "invisible": false,
+        "moving": false,
+        "pose": "standing",
+        "upsideDown": false,
+        "variant": "minecraft:squid"
+      },
+      "display": {
+        "offsetX": 0,
+        "offsetY": 0.001,
+        "offsetZ": 0,
+        "scale": 2.5,
+        "yawOffsetDegrees": 180
+      },
+      "entityType": "SQUID",
+      "limitations": [
+        "Baby appearance uses the official baby ModelLayer and baby texture; static pose only.",
+        "Static snapshot of the official default render state; no animation, movement, equipment or unlisted appearance is covered."
+      ],
+      "modelId": "vanillamobs:squid_baby",
+      "supported": true
+    },
+    {
+      "conditions": {
+        "age": "baby",
+        "decor": "none",
+        "equipment": "none",
+        "headPitchDegrees": 0,
+        "headYawDegrees": 0,
+        "invisible": false,
+        "moving": false,
+        "pose": "standing",
+        "saddle": false,
+        "upsideDown": false,
+        "variant": "minecraft:creamy"
+      },
+      "display": {
+        "offsetX": 0,
+        "offsetY": 0.001,
+        "offsetZ": 0,
+        "scale": 2.5,
+        "yawOffsetDegrees": 180
+      },
+      "entityType": "TRADER_LLAMA",
+      "limitations": [
+        "Baby appearance uses the official baby ModelLayer and baby texture; static pose only.",
+        "Static snapshot of the official default render state; no animation, movement, equipment or unlisted appearance is covered."
+      ],
+      "modelId": "vanillamobs:trader_llama_baby",
+      "supported": true
+    },
+    {
+      "conditions": {
+        "age": "baby",
+        "equipment": "none",
+        "headPitchDegrees": 0,
+        "headYawDegrees": 0,
+        "invisible": false,
+        "moving": false,
+        "pose": "standing",
+        "upsideDown": false,
+        "variant": "minecraft:turtle"
+      },
+      "display": {
+        "offsetX": 0,
+        "offsetY": 0.001,
+        "offsetZ": 0,
+        "scale": 2.5,
+        "yawOffsetDegrees": 180
+      },
+      "entityType": "TURTLE",
+      "limitations": [
+        "Baby appearance uses the official baby ModelLayer and baby texture; static pose only.",
+        "Static snapshot of the official default render state; no animation, movement, equipment or unlisted appearance is covered."
+      ],
+      "modelId": "vanillamobs:turtle_baby",
+      "supported": true
+    },
+    {
+      "conditions": {
+        "age": "baby",
+        "equipment": "none",
+        "headPitchDegrees": 0,
+        "headYawDegrees": 0,
+        "invisible": false,
+        "moving": false,
+        "pose": "standing",
+        "upsideDown": false,
+        "variant": "minecraft:zombie"
+      },
+      "display": {
+        "offsetX": 0,
+        "offsetY": 0.001,
+        "offsetZ": 0,
+        "scale": 2.5,
+        "yawOffsetDegrees": 180
+      },
+      "entityType": "ZOMBIE",
+      "limitations": [
+        "Baby appearance uses the official baby ModelLayer and baby texture; static pose only.",
+        "main/root/left_arm/0: Non-representable orientation: RP Engine element rotations are single-axis 0/+-22.5/+-45 degrees"
+      ],
+      "modelId": "vanillamobs:zombie_baby",
+      "supported": false
+    },
+    {
+      "conditions": {
+        "age": "baby",
+        "equipment": "none",
+        "headPitchDegrees": 0,
+        "headYawDegrees": 0,
+        "invisible": false,
+        "moving": false,
+        "pose": "standing",
+        "upsideDown": false,
+        "variant": "minecraft:zombified_piglin"
+      },
+      "display": {
+        "offsetX": 0,
+        "offsetY": 0.001,
+        "offsetZ": 0,
+        "scale": 2.5,
+        "yawOffsetDegrees": 180
+      },
+      "entityType": "ZOMBIFIED_PIGLIN",
+      "limitations": [
+        "Baby appearance uses the official baby ModelLayer and baby texture; static pose only.",
+        "main/root/head/left_ear/left_ear_r1/0: Non-representable orientation: RP Engine element rotations are single-axis 0/+-22.5/+-45 degrees"
+      ],
+      "modelId": "vanillamobs:zombified_piglin_baby",
+      "supported": false
+    },
+    {
+      "conditions": {
+        "age": "adult",
+        "equipment": "none",
+        "headPitchDegrees": 0,
+        "headYawDegrees": 0,
+        "invisible": false,
+        "moving": false,
+        "pose": "standing",
+        "upsideDown": false,
+        "variant": "minecraft:warm"
+      },
+      "display": {
+        "offsetX": 0,
+        "offsetY": 0.001,
+        "offsetZ": 0,
+        "scale": 2.5,
+        "yawOffsetDegrees": 180
+      },
+      "entityType": "COW",
+      "limitations": [
+        "Climate-specific official model layer and texture.",
+        "Static snapshot of the official default render state; no animation, movement, equipment or unlisted appearance is covered."
+      ],
+      "modelId": "vanillamobs:cow_warm_adult",
+      "supported": true
+    },
+    {
+      "conditions": {
+        "age": "baby",
+        "equipment": "none",
+        "headPitchDegrees": 0,
+        "headYawDegrees": 0,
+        "invisible": false,
+        "moving": false,
+        "pose": "standing",
+        "upsideDown": false,
+        "variant": "minecraft:warm"
+      },
+      "display": {
+        "offsetX": 0,
+        "offsetY": 0.001,
+        "offsetZ": 0,
+        "scale": 2.5,
+        "yawOffsetDegrees": 180
+      },
+      "entityType": "COW",
+      "limitations": [
+        "Baby appearance uses the official baby ModelLayer and baby texture; static pose only.",
+        "Climate-specific official baby model layer and texture.",
+        "Static snapshot of the official default render state; no animation, movement, equipment or unlisted appearance is covered."
+      ],
+      "modelId": "vanillamobs:cow_warm_baby",
+      "supported": true
+    },
+    {
+      "conditions": {
+        "age": "adult",
+        "equipment": "none",
+        "headPitchDegrees": 0,
+        "headYawDegrees": 0,
+        "invisible": false,
+        "moving": false,
+        "pose": "standing",
+        "upsideDown": false,
+        "variant": "minecraft:cold"
+      },
+      "display": {
+        "offsetX": 0,
+        "offsetY": 0.001,
+        "offsetZ": 0,
+        "scale": 2.5,
+        "yawOffsetDegrees": 180
+      },
+      "entityType": "COW",
+      "limitations": [
+        "Climate-specific official model layer and texture.",
+        "Static snapshot of the official default render state; no animation, movement, equipment or unlisted appearance is covered."
+      ],
+      "modelId": "vanillamobs:cow_cold_adult",
+      "supported": true
+    },
+    {
+      "conditions": {
+        "age": "baby",
+        "equipment": "none",
+        "headPitchDegrees": 0,
+        "headYawDegrees": 0,
+        "invisible": false,
+        "moving": false,
+        "pose": "standing",
+        "upsideDown": false,
+        "variant": "minecraft:cold"
+      },
+      "display": {
+        "offsetX": 0,
+        "offsetY": 0.001,
+        "offsetZ": 0,
+        "scale": 2.5,
+        "yawOffsetDegrees": 180
+      },
+      "entityType": "COW",
+      "limitations": [
+        "Baby appearance uses the official baby ModelLayer and baby texture; static pose only.",
+        "Climate-specific official baby model layer and texture.",
+        "Static snapshot of the official default render state; no animation, movement, equipment or unlisted appearance is covered."
+      ],
+      "modelId": "vanillamobs:cow_cold_baby",
+      "supported": true
+    },
+    {
+      "conditions": {
+        "age": "adult",
+        "equipment": "none",
+        "headPitchDegrees": 0,
+        "headYawDegrees": 0,
+        "invisible": false,
+        "moving": false,
+        "pose": "standing",
+        "saddle": false,
+        "upsideDown": false,
+        "variant": "minecraft:warm"
+      },
+      "display": {
+        "offsetX": 0,
+        "offsetY": 0.001,
+        "offsetZ": 0,
+        "scale": 2.5,
+        "yawOffsetDegrees": 180
+      },
+      "entityType": "PIG",
+      "limitations": [
+        "Climate-specific official model layer and texture.",
+        "Static snapshot of the official default render state; no animation, movement, equipment or unlisted appearance is covered."
+      ],
+      "modelId": "vanillamobs:pig_warm_adult",
+      "supported": true
+    },
+    {
+      "conditions": {
+        "age": "baby",
+        "equipment": "none",
+        "headPitchDegrees": 0,
+        "headYawDegrees": 0,
+        "invisible": false,
+        "moving": false,
+        "pose": "standing",
+        "saddle": false,
+        "upsideDown": false,
+        "variant": "minecraft:warm"
+      },
+      "display": {
+        "offsetX": 0,
+        "offsetY": 0.001,
+        "offsetZ": 0,
+        "scale": 2.5,
+        "yawOffsetDegrees": 180
+      },
+      "entityType": "PIG",
+      "limitations": [
+        "Baby appearance uses the official baby ModelLayer and baby texture; static pose only.",
+        "Climate-specific official baby model layer and texture.",
+        "Static snapshot of the official default render state; no animation, movement, equipment or unlisted appearance is covered."
+      ],
+      "modelId": "vanillamobs:pig_warm_baby",
+      "supported": true
+    },
+    {
+      "conditions": {
+        "age": "adult",
+        "equipment": "none",
+        "headPitchDegrees": 0,
+        "headYawDegrees": 0,
+        "invisible": false,
+        "moving": false,
+        "pose": "standing",
+        "saddle": false,
+        "upsideDown": false,
+        "variant": "minecraft:cold"
+      },
+      "display": {
+        "offsetX": 0,
+        "offsetY": 0.001,
+        "offsetZ": 0,
+        "scale": 2.5,
+        "yawOffsetDegrees": 180
+      },
+      "entityType": "PIG",
+      "limitations": [
+        "Climate-specific official model layer and texture.",
+        "Static snapshot of the official default render state; no animation, movement, equipment or unlisted appearance is covered."
+      ],
+      "modelId": "vanillamobs:pig_cold_adult",
+      "supported": true
+    },
+    {
+      "conditions": {
+        "age": "baby",
+        "equipment": "none",
+        "headPitchDegrees": 0,
+        "headYawDegrees": 0,
+        "invisible": false,
+        "moving": false,
+        "pose": "standing",
+        "saddle": false,
+        "upsideDown": false,
+        "variant": "minecraft:cold"
+      },
+      "display": {
+        "offsetX": 0,
+        "offsetY": 0.001,
+        "offsetZ": 0,
+        "scale": 2.5,
+        "yawOffsetDegrees": 180
+      },
+      "entityType": "PIG",
+      "limitations": [
+        "Baby appearance uses the official baby ModelLayer and baby texture; static pose only.",
+        "Climate-specific official baby model layer and texture.",
+        "Static snapshot of the official default render state; no animation, movement, equipment or unlisted appearance is covered."
+      ],
+      "modelId": "vanillamobs:pig_cold_baby",
+      "supported": true
+    },
+    {
+      "conditions": {
+        "age": "adult",
+        "equipment": "none",
+        "headPitchDegrees": 0,
+        "headYawDegrees": 0,
+        "invisible": false,
+        "moving": false,
+        "pose": "standing",
+        "upsideDown": false,
+        "variant": "minecraft:warm"
+      },
+      "display": {
+        "offsetX": 0,
+        "offsetY": 0.001,
+        "offsetZ": 0,
+        "scale": 2.5,
+        "yawOffsetDegrees": 180
+      },
+      "entityType": "CHICKEN",
+      "limitations": [
+        "Climate-specific official model layer and texture.",
+        "Static snapshot of the official default render state; no animation, movement, equipment or unlisted appearance is covered."
+      ],
+      "modelId": "vanillamobs:chicken_warm_adult",
+      "supported": true
+    },
+    {
+      "conditions": {
+        "age": "baby",
+        "equipment": "none",
+        "headPitchDegrees": 0,
+        "headYawDegrees": 0,
+        "invisible": false,
+        "moving": false,
+        "pose": "standing",
+        "upsideDown": false,
+        "variant": "minecraft:warm"
+      },
+      "display": {
+        "offsetX": 0,
+        "offsetY": 0.001,
+        "offsetZ": 0,
+        "scale": 2.5,
+        "yawOffsetDegrees": 180
+      },
+      "entityType": "CHICKEN",
+      "limitations": [
+        "Baby appearance uses the official baby ModelLayer and baby texture; static pose only.",
+        "Climate-specific official baby model layer and texture.",
+        "Static snapshot of the official default render state; no animation, movement, equipment or unlisted appearance is covered."
+      ],
+      "modelId": "vanillamobs:chicken_warm_baby",
+      "supported": true
+    },
+    {
+      "conditions": {
+        "age": "adult",
+        "equipment": "none",
+        "headPitchDegrees": 0,
+        "headYawDegrees": 0,
+        "invisible": false,
+        "moving": false,
+        "pose": "standing",
+        "upsideDown": false,
+        "variant": "minecraft:cold"
+      },
+      "display": {
+        "offsetX": 0,
+        "offsetY": 0.001,
+        "offsetZ": 0,
+        "scale": 2.5,
+        "yawOffsetDegrees": 180
+      },
+      "entityType": "CHICKEN",
+      "limitations": [
+        "Climate-specific official model layer and texture.",
+        "Static snapshot of the official default render state; no animation, movement, equipment or unlisted appearance is covered."
+      ],
+      "modelId": "vanillamobs:chicken_cold_adult",
+      "supported": true
+    },
+    {
+      "conditions": {
+        "age": "baby",
+        "equipment": "none",
+        "headPitchDegrees": 0,
+        "headYawDegrees": 0,
+        "invisible": false,
+        "moving": false,
+        "pose": "standing",
+        "upsideDown": false,
+        "variant": "minecraft:cold"
+      },
+      "display": {
+        "offsetX": 0,
+        "offsetY": 0.001,
+        "offsetZ": 0,
+        "scale": 2.5,
+        "yawOffsetDegrees": 180
+      },
+      "entityType": "CHICKEN",
+      "limitations": [
+        "Baby appearance uses the official baby ModelLayer and baby texture; static pose only.",
+        "Climate-specific official baby model layer and texture.",
+        "Static snapshot of the official default render state; no animation, movement, equipment or unlisted appearance is covered."
+      ],
+      "modelId": "vanillamobs:chicken_cold_baby",
+      "supported": true
+    },
+    {
+      "conditions": {
+        "age": "adult",
+        "equipment": "none",
+        "headPitchDegrees": 0,
+        "headYawDegrees": 0,
+        "invisible": false,
+        "moving": false,
+        "pose": "standing",
+        "upsideDown": false,
+        "variant": "minecraft:warm"
+      },
+      "display": {
+        "offsetX": 0,
+        "offsetY": 0.001,
+        "offsetZ": 0,
+        "scale": 2.5,
+        "yawOffsetDegrees": 180
+      },
+      "entityType": "FROG",
+      "limitations": [
+        "Climate-specific official texture on the shared frog model.",
+        "Static snapshot of the official default render state; no animation, movement, equipment or unlisted appearance is covered."
+      ],
+      "modelId": "vanillamobs:frog_warm_adult",
+      "supported": true
+    },
+    {
+      "conditions": {
+        "age": "adult",
+        "equipment": "none",
+        "headPitchDegrees": 0,
+        "headYawDegrees": 0,
+        "invisible": false,
+        "moving": false,
+        "pose": "standing",
+        "upsideDown": false,
+        "variant": "minecraft:cold"
+      },
+      "display": {
+        "offsetX": 0,
+        "offsetY": 0.001,
+        "offsetZ": 0,
+        "scale": 2.5,
+        "yawOffsetDegrees": 180
+      },
+      "entityType": "FROG",
+      "limitations": [
+        "Climate-specific official texture on the shared frog model.",
+        "Static snapshot of the official default render state; no animation, movement, equipment or unlisted appearance is covered."
+      ],
+      "modelId": "vanillamobs:frog_cold_adult",
+      "supported": true
+    },
+    {
+      "conditions": {
+        "age": "adult",
+        "armor": "none",
+        "equipment": "none",
+        "headPitchDegrees": 0,
+        "headYawDegrees": 0,
+        "invisible": false,
+        "moving": false,
+        "pose": "standing",
+        "saddle": false,
+        "upsideDown": false,
+        "variant": "minecraft:warm"
+      },
+      "display": {
+        "offsetX": 0,
+        "offsetY": 0.001,
+        "offsetZ": 0,
+        "scale": 2.5,
+        "yawOffsetDegrees": 180
+      },
+      "entityType": "ZOMBIE_NAUTILUS",
+      "limitations": [
+        "Warm/coral official model layer and texture.",
+        "main/root/root/shell/corals/red_coral/red_coral_second/0: Non-representable orientation: RP Engine element rotations are single-axis 0/+-22.5/+-45 degrees"
+      ],
+      "modelId": "vanillamobs:zombie_nautilus_warm_adult",
+      "supported": false
+    },
+    {
+      "conditions": {
+        "age": "adult",
+        "equipment": "none",
+        "headPitchDegrees": 0,
+        "headYawDegrees": 0,
+        "heldItem": "none",
+        "invisible": false,
+        "moving": false,
+        "pose": "standing",
+        "profession": "armorer",
+        "professionLevel": 1,
+        "unhappy": false,
+        "upsideDown": false,
+        "variant": "minecraft:plains",
+        "villagerType": "plains"
+      },
+      "display": {
+        "offsetX": 0,
+        "offsetY": 0.001,
+        "offsetZ": 0,
+        "scale": 2.5,
+        "yawOffsetDegrees": 180
+      },
+      "entityType": "VILLAGER",
+      "limitations": [
+        "Adult static villager appearance; sleeping, working, trading, held items and baby rendering are excluded.",
+        "Official type layer uses the full model from type hat=none and profession hat=none metadata; profession and level layers use the full parent model.",
+        "Official base, type, profession and applicable level cutout passes are composited in renderer order without coincident cubes.",
+        "User-authorized dance-compatible static pose: folded arms use -45 degrees instead of the official -42.9718346348 degrees (difference 2.0281653652 degrees).",
+        "Static snapshot of the official default render state; no animation, movement, equipment or unlisted appearance is covered."
+      ],
+      "modelId": "vanillamobs:villager_plains_armorer_level_1_adult",
+      "supported": true
+    },
+    {
+      "conditions": {
+        "age": "adult",
+        "equipment": "none",
+        "headPitchDegrees": 0,
+        "headYawDegrees": 0,
+        "heldItem": "none",
+        "invisible": false,
+        "moving": false,
+        "pose": "standing",
+        "profession": "butcher",
+        "professionLevel": 1,
+        "unhappy": false,
+        "upsideDown": false,
+        "variant": "minecraft:plains",
+        "villagerType": "plains"
+      },
+      "display": {
+        "offsetX": 0,
+        "offsetY": 0.001,
+        "offsetZ": 0,
+        "scale": 2.5,
+        "yawOffsetDegrees": 180
+      },
+      "entityType": "VILLAGER",
+      "limitations": [
+        "Adult static villager appearance; sleeping, working, trading, held items and baby rendering are excluded.",
+        "Official type layer uses the full model from type hat=none and profession hat=partial metadata; profession and level layers use the full parent model.",
+        "Official base, type, profession and applicable level cutout passes are composited in renderer order without coincident cubes.",
+        "User-authorized dance-compatible static pose: folded arms use -45 degrees instead of the official -42.9718346348 degrees (difference 2.0281653652 degrees).",
+        "Static snapshot of the official default render state; no animation, movement, equipment or unlisted appearance is covered."
+      ],
+      "modelId": "vanillamobs:villager_plains_butcher_level_1_adult",
+      "supported": true
+    },
+    {
+      "conditions": {
+        "age": "adult",
+        "equipment": "none",
+        "headPitchDegrees": 0,
+        "headYawDegrees": 0,
+        "heldItem": "none",
+        "invisible": false,
+        "moving": false,
+        "pose": "standing",
+        "profession": "cartographer",
+        "professionLevel": 1,
+        "unhappy": false,
+        "upsideDown": false,
+        "variant": "minecraft:plains",
+        "villagerType": "plains"
+      },
+      "display": {
+        "offsetX": 0,
+        "offsetY": 0.001,
+        "offsetZ": 0,
+        "scale": 2.5,
+        "yawOffsetDegrees": 180
+      },
+      "entityType": "VILLAGER",
+      "limitations": [
+        "Adult static villager appearance; sleeping, working, trading, held items and baby rendering are excluded.",
+        "Official type layer uses the full model from type hat=none and profession hat=none metadata; profession and level layers use the full parent model.",
+        "Official base, type, profession and applicable level cutout passes are composited in renderer order without coincident cubes.",
+        "User-authorized dance-compatible static pose: folded arms use -45 degrees instead of the official -42.9718346348 degrees (difference 2.0281653652 degrees).",
+        "Static snapshot of the official default render state; no animation, movement, equipment or unlisted appearance is covered."
+      ],
+      "modelId": "vanillamobs:villager_plains_cartographer_level_1_adult",
+      "supported": true
+    },
+    {
+      "conditions": {
+        "age": "adult",
+        "equipment": "none",
+        "headPitchDegrees": 0,
+        "headYawDegrees": 0,
+        "heldItem": "none",
+        "invisible": false,
+        "moving": false,
+        "pose": "standing",
+        "profession": "cleric",
+        "professionLevel": 1,
+        "unhappy": false,
+        "upsideDown": false,
+        "variant": "minecraft:plains",
+        "villagerType": "plains"
+      },
+      "display": {
+        "offsetX": 0,
+        "offsetY": 0.001,
+        "offsetZ": 0,
+        "scale": 2.5,
+        "yawOffsetDegrees": 180
+      },
+      "entityType": "VILLAGER",
+      "limitations": [
+        "Adult static villager appearance; sleeping, working, trading, held items and baby rendering are excluded.",
+        "Official type layer uses the full model from type hat=none and profession hat=none metadata; profession and level layers use the full parent model.",
+        "Official base, type, profession and applicable level cutout passes are composited in renderer order without coincident cubes.",
+        "User-authorized dance-compatible static pose: folded arms use -45 degrees instead of the official -42.9718346348 degrees (difference 2.0281653652 degrees).",
+        "Static snapshot of the official default render state; no animation, movement, equipment or unlisted appearance is covered."
+      ],
+      "modelId": "vanillamobs:villager_plains_cleric_level_1_adult",
+      "supported": true
+    },
+    {
+      "conditions": {
+        "age": "adult",
+        "equipment": "none",
+        "headPitchDegrees": 0,
+        "headYawDegrees": 0,
+        "heldItem": "none",
+        "invisible": false,
+        "moving": false,
+        "pose": "standing",
+        "profession": "farmer",
+        "professionLevel": 1,
+        "unhappy": false,
+        "upsideDown": false,
+        "variant": "minecraft:plains",
+        "villagerType": "plains"
+      },
+      "display": {
+        "offsetX": 0,
+        "offsetY": 0.001,
+        "offsetZ": 0,
+        "scale": 2.5,
+        "yawOffsetDegrees": 180
+      },
+      "entityType": "VILLAGER",
+      "limitations": [
+        "Adult static villager appearance; sleeping, working, trading, held items and baby rendering are excluded.",
+        "Official type layer uses the no_hat model from type hat=none and profession hat=full metadata; profession and level layers use the full parent model.",
+        "Official base, type, profession and applicable level cutout passes are composited in renderer order without coincident cubes.",
+        "User-authorized dance-compatible static pose: folded arms use -45 degrees instead of the official -42.9718346348 degrees (difference 2.0281653652 degrees).",
+        "Static snapshot of the official default render state; no animation, movement, equipment or unlisted appearance is covered."
+      ],
+      "modelId": "vanillamobs:villager_plains_farmer_level_1_adult",
+      "supported": true
+    },
+    {
+      "conditions": {
+        "age": "adult",
+        "equipment": "none",
+        "headPitchDegrees": 0,
+        "headYawDegrees": 0,
+        "heldItem": "none",
+        "invisible": false,
+        "moving": false,
+        "pose": "standing",
+        "profession": "fisherman",
+        "professionLevel": 1,
+        "unhappy": false,
+        "upsideDown": false,
+        "variant": "minecraft:plains",
+        "villagerType": "plains"
+      },
+      "display": {
+        "offsetX": 0,
+        "offsetY": 0.001,
+        "offsetZ": 0,
+        "scale": 2.5,
+        "yawOffsetDegrees": 180
+      },
+      "entityType": "VILLAGER",
+      "limitations": [
+        "Adult static villager appearance; sleeping, working, trading, held items and baby rendering are excluded.",
+        "Official type layer uses the no_hat model from type hat=none and profession hat=full metadata; profession and level layers use the full parent model.",
+        "Official base, type, profession and applicable level cutout passes are composited in renderer order without coincident cubes.",
+        "User-authorized dance-compatible static pose: folded arms use -45 degrees instead of the official -42.9718346348 degrees (difference 2.0281653652 degrees).",
+        "Static snapshot of the official default render state; no animation, movement, equipment or unlisted appearance is covered."
+      ],
+      "modelId": "vanillamobs:villager_plains_fisherman_level_1_adult",
+      "supported": true
+    },
+    {
+      "conditions": {
+        "age": "adult",
+        "equipment": "none",
+        "headPitchDegrees": 0,
+        "headYawDegrees": 0,
+        "heldItem": "none",
+        "invisible": false,
+        "moving": false,
+        "pose": "standing",
+        "profession": "fletcher",
+        "professionLevel": 1,
+        "unhappy": false,
+        "upsideDown": false,
+        "variant": "minecraft:plains",
+        "villagerType": "plains"
+      },
+      "display": {
+        "offsetX": 0,
+        "offsetY": 0.001,
+        "offsetZ": 0,
+        "scale": 2.5,
+        "yawOffsetDegrees": 180
+      },
+      "entityType": "VILLAGER",
+      "limitations": [
+        "Adult static villager appearance; sleeping, working, trading, held items and baby rendering are excluded.",
+        "Official type layer uses the no_hat model from type hat=none and profession hat=full metadata; profession and level layers use the full parent model.",
+        "Official base, type, profession and applicable level cutout passes are composited in renderer order without coincident cubes.",
+        "User-authorized dance-compatible static pose: folded arms use -45 degrees instead of the official -42.9718346348 degrees (difference 2.0281653652 degrees).",
+        "Static snapshot of the official default render state; no animation, movement, equipment or unlisted appearance is covered."
+      ],
+      "modelId": "vanillamobs:villager_plains_fletcher_level_1_adult",
+      "supported": true
+    },
+    {
+      "conditions": {
+        "age": "adult",
+        "equipment": "none",
+        "headPitchDegrees": 0,
+        "headYawDegrees": 0,
+        "heldItem": "none",
+        "invisible": false,
+        "moving": false,
+        "pose": "standing",
+        "profession": "leatherworker",
+        "professionLevel": 1,
+        "unhappy": false,
+        "upsideDown": false,
+        "variant": "minecraft:plains",
+        "villagerType": "plains"
+      },
+      "display": {
+        "offsetX": 0,
+        "offsetY": 0.001,
+        "offsetZ": 0,
+        "scale": 2.5,
+        "yawOffsetDegrees": 180
+      },
+      "entityType": "VILLAGER",
+      "limitations": [
+        "Adult static villager appearance; sleeping, working, trading, held items and baby rendering are excluded.",
+        "Official type layer uses the full model from type hat=none and profession hat=none metadata; profession and level layers use the full parent model.",
+        "Official base, type, profession and applicable level cutout passes are composited in renderer order without coincident cubes.",
+        "User-authorized dance-compatible static pose: folded arms use -45 degrees instead of the official -42.9718346348 degrees (difference 2.0281653652 degrees).",
+        "Static snapshot of the official default render state; no animation, movement, equipment or unlisted appearance is covered."
+      ],
+      "modelId": "vanillamobs:villager_plains_leatherworker_level_1_adult",
+      "supported": true
+    },
+    {
+      "conditions": {
+        "age": "adult",
+        "equipment": "none",
+        "headPitchDegrees": 0,
+        "headYawDegrees": 0,
+        "heldItem": "none",
+        "invisible": false,
+        "moving": false,
+        "pose": "standing",
+        "profession": "librarian",
+        "professionLevel": 1,
+        "unhappy": false,
+        "upsideDown": false,
+        "variant": "minecraft:plains",
+        "villagerType": "plains"
+      },
+      "display": {
+        "offsetX": 0,
+        "offsetY": 0.001,
+        "offsetZ": 0,
+        "scale": 2.5,
+        "yawOffsetDegrees": 180
+      },
+      "entityType": "VILLAGER",
+      "limitations": [
+        "Adult static villager appearance; sleeping, working, trading, held items and baby rendering are excluded.",
+        "Official type layer uses the no_hat model from type hat=none and profession hat=full metadata; profession and level layers use the full parent model.",
+        "Official base, type, profession and applicable level cutout passes are composited in renderer order without coincident cubes.",
+        "User-authorized dance-compatible static pose: folded arms use -45 degrees instead of the official -42.9718346348 degrees (difference 2.0281653652 degrees).",
+        "Static snapshot of the official default render state; no animation, movement, equipment or unlisted appearance is covered."
+      ],
+      "modelId": "vanillamobs:villager_plains_librarian_level_1_adult",
+      "supported": true
+    },
+    {
+      "conditions": {
+        "age": "adult",
+        "equipment": "none",
+        "headPitchDegrees": 0,
+        "headYawDegrees": 0,
+        "heldItem": "none",
+        "invisible": false,
+        "moving": false,
+        "pose": "standing",
+        "profession": "mason",
+        "professionLevel": 1,
+        "unhappy": false,
+        "upsideDown": false,
+        "variant": "minecraft:plains",
+        "villagerType": "plains"
+      },
+      "display": {
+        "offsetX": 0,
+        "offsetY": 0.001,
+        "offsetZ": 0,
+        "scale": 2.5,
+        "yawOffsetDegrees": 180
+      },
+      "entityType": "VILLAGER",
+      "limitations": [
+        "Adult static villager appearance; sleeping, working, trading, held items and baby rendering are excluded.",
+        "Official type layer uses the full model from type hat=none and profession hat=none metadata; profession and level layers use the full parent model.",
+        "Official base, type, profession and applicable level cutout passes are composited in renderer order without coincident cubes.",
+        "User-authorized dance-compatible static pose: folded arms use -45 degrees instead of the official -42.9718346348 degrees (difference 2.0281653652 degrees).",
+        "Static snapshot of the official default render state; no animation, movement, equipment or unlisted appearance is covered."
+      ],
+      "modelId": "vanillamobs:villager_plains_mason_level_1_adult",
+      "supported": true
+    },
+    {
+      "conditions": {
+        "age": "adult",
+        "equipment": "none",
+        "headPitchDegrees": 0,
+        "headYawDegrees": 0,
+        "heldItem": "none",
+        "invisible": false,
+        "moving": false,
+        "pose": "standing",
+        "profession": "nitwit",
+        "professionLevel": 1,
+        "unhappy": false,
+        "upsideDown": false,
+        "variant": "minecraft:plains",
+        "villagerType": "plains"
+      },
+      "display": {
+        "offsetX": 0,
+        "offsetY": 0.001,
+        "offsetZ": 0,
+        "scale": 2.5,
+        "yawOffsetDegrees": 180
+      },
+      "entityType": "VILLAGER",
+      "limitations": [
+        "Adult static villager appearance; sleeping, working, trading, held items and baby rendering are excluded.",
+        "Official type layer uses the full model from type hat=none and profession hat=none metadata; profession and level layers use the full parent model.",
+        "Official base, type, profession and applicable level cutout passes are composited in renderer order without coincident cubes.",
+        "User-authorized dance-compatible static pose: folded arms use -45 degrees instead of the official -42.9718346348 degrees (difference 2.0281653652 degrees).",
+        "Static snapshot of the official default render state; no animation, movement, equipment or unlisted appearance is covered."
+      ],
+      "modelId": "vanillamobs:villager_plains_nitwit_level_1_adult",
+      "supported": true
+    },
+    {
+      "conditions": {
+        "age": "adult",
+        "equipment": "none",
+        "headPitchDegrees": 0,
+        "headYawDegrees": 0,
+        "heldItem": "none",
+        "invisible": false,
+        "moving": false,
+        "pose": "standing",
+        "profession": "shepherd",
+        "professionLevel": 1,
+        "unhappy": false,
+        "upsideDown": false,
+        "variant": "minecraft:plains",
+        "villagerType": "plains"
+      },
+      "display": {
+        "offsetX": 0,
+        "offsetY": 0.001,
+        "offsetZ": 0,
+        "scale": 2.5,
+        "yawOffsetDegrees": 180
+      },
+      "entityType": "VILLAGER",
+      "limitations": [
+        "Adult static villager appearance; sleeping, working, trading, held items and baby rendering are excluded.",
+        "Official type layer uses the no_hat model from type hat=none and profession hat=full metadata; profession and level layers use the full parent model.",
+        "Official base, type, profession and applicable level cutout passes are composited in renderer order without coincident cubes.",
+        "User-authorized dance-compatible static pose: folded arms use -45 degrees instead of the official -42.9718346348 degrees (difference 2.0281653652 degrees).",
+        "Static snapshot of the official default render state; no animation, movement, equipment or unlisted appearance is covered."
+      ],
+      "modelId": "vanillamobs:villager_plains_shepherd_level_1_adult",
+      "supported": true
+    },
+    {
+      "conditions": {
+        "age": "adult",
+        "equipment": "none",
+        "headPitchDegrees": 0,
+        "headYawDegrees": 0,
+        "heldItem": "none",
+        "invisible": false,
+        "moving": false,
+        "pose": "standing",
+        "profession": "toolsmith",
+        "professionLevel": 1,
+        "unhappy": false,
+        "upsideDown": false,
+        "variant": "minecraft:plains",
+        "villagerType": "plains"
+      },
+      "display": {
+        "offsetX": 0,
+        "offsetY": 0.001,
+        "offsetZ": 0,
+        "scale": 2.5,
+        "yawOffsetDegrees": 180
+      },
+      "entityType": "VILLAGER",
+      "limitations": [
+        "Adult static villager appearance; sleeping, working, trading, held items and baby rendering are excluded.",
+        "Official type layer uses the full model from type hat=none and profession hat=none metadata; profession and level layers use the full parent model.",
+        "Official base, type, profession and applicable level cutout passes are composited in renderer order without coincident cubes.",
+        "User-authorized dance-compatible static pose: folded arms use -45 degrees instead of the official -42.9718346348 degrees (difference 2.0281653652 degrees).",
+        "Static snapshot of the official default render state; no animation, movement, equipment or unlisted appearance is covered."
+      ],
+      "modelId": "vanillamobs:villager_plains_toolsmith_level_1_adult",
+      "supported": true
+    },
+    {
+      "conditions": {
+        "age": "adult",
+        "equipment": "none",
+        "headPitchDegrees": 0,
+        "headYawDegrees": 0,
+        "heldItem": "none",
+        "invisible": false,
+        "moving": false,
+        "pose": "standing",
+        "profession": "weaponsmith",
+        "professionLevel": 1,
+        "unhappy": false,
+        "upsideDown": false,
+        "variant": "minecraft:plains",
+        "villagerType": "plains"
+      },
+      "display": {
+        "offsetX": 0,
+        "offsetY": 0.001,
+        "offsetZ": 0,
+        "scale": 2.5,
+        "yawOffsetDegrees": 180
+      },
+      "entityType": "VILLAGER",
+      "limitations": [
+        "Adult static villager appearance; sleeping, working, trading, held items and baby rendering are excluded.",
+        "Official type layer uses the full model from type hat=none and profession hat=none metadata; profession and level layers use the full parent model.",
+        "Official base, type, profession and applicable level cutout passes are composited in renderer order without coincident cubes.",
+        "User-authorized dance-compatible static pose: folded arms use -45 degrees instead of the official -42.9718346348 degrees (difference 2.0281653652 degrees).",
+        "Static snapshot of the official default render state; no animation, movement, equipment or unlisted appearance is covered."
+      ],
+      "modelId": "vanillamobs:villager_plains_weaponsmith_level_1_adult",
+      "supported": true
+    },
+    {
+      "conditions": {
+        "age": "adult",
+        "color": "orange",
+        "equipment": "none",
+        "headPitchDegrees": 0,
+        "headYawDegrees": 0,
+        "invisible": false,
+        "jeb": false,
+        "moving": false,
+        "pose": "standing",
+        "sheared": false,
+        "upsideDown": false,
+        "variant": "minecraft:sheep"
+      },
+      "display": {
+        "offsetX": 0,
+        "offsetY": 0.001,
+        "offsetZ": 0,
+        "scale": 2.5,
+        "yawOffsetDegrees": 180
+      },
+      "entityType": "SHEEP",
+      "limitations": [
+        "Official sheep wool colour multiplier baked into the PNG; alpha preserved.",
+        "Static snapshot of the official default render state; no animation, movement, equipment or unlisted appearance is covered."
+      ],
+      "modelId": "vanillamobs:sheep_orange_adult",
+      "supported": true
+    },
+    {
+      "conditions": {
+        "age": "adult",
+        "color": "magenta",
+        "equipment": "none",
+        "headPitchDegrees": 0,
+        "headYawDegrees": 0,
+        "invisible": false,
+        "jeb": false,
+        "moving": false,
+        "pose": "standing",
+        "sheared": false,
+        "upsideDown": false,
+        "variant": "minecraft:sheep"
+      },
+      "display": {
+        "offsetX": 0,
+        "offsetY": 0.001,
+        "offsetZ": 0,
+        "scale": 2.5,
+        "yawOffsetDegrees": 180
+      },
+      "entityType": "SHEEP",
+      "limitations": [
+        "Official sheep wool colour multiplier baked into the PNG; alpha preserved.",
+        "Static snapshot of the official default render state; no animation, movement, equipment or unlisted appearance is covered."
+      ],
+      "modelId": "vanillamobs:sheep_magenta_adult",
+      "supported": true
+    },
+    {
+      "conditions": {
+        "age": "adult",
+        "color": "light_blue",
+        "equipment": "none",
+        "headPitchDegrees": 0,
+        "headYawDegrees": 0,
+        "invisible": false,
+        "jeb": false,
+        "moving": false,
+        "pose": "standing",
+        "sheared": false,
+        "upsideDown": false,
+        "variant": "minecraft:sheep"
+      },
+      "display": {
+        "offsetX": 0,
+        "offsetY": 0.001,
+        "offsetZ": 0,
+        "scale": 2.5,
+        "yawOffsetDegrees": 180
+      },
+      "entityType": "SHEEP",
+      "limitations": [
+        "Official sheep wool colour multiplier baked into the PNG; alpha preserved.",
+        "Static snapshot of the official default render state; no animation, movement, equipment or unlisted appearance is covered."
+      ],
+      "modelId": "vanillamobs:sheep_light_blue_adult",
+      "supported": true
+    },
+    {
+      "conditions": {
+        "age": "adult",
+        "color": "yellow",
+        "equipment": "none",
+        "headPitchDegrees": 0,
+        "headYawDegrees": 0,
+        "invisible": false,
+        "jeb": false,
+        "moving": false,
+        "pose": "standing",
+        "sheared": false,
+        "upsideDown": false,
+        "variant": "minecraft:sheep"
+      },
+      "display": {
+        "offsetX": 0,
+        "offsetY": 0.001,
+        "offsetZ": 0,
+        "scale": 2.5,
+        "yawOffsetDegrees": 180
+      },
+      "entityType": "SHEEP",
+      "limitations": [
+        "Official sheep wool colour multiplier baked into the PNG; alpha preserved.",
+        "Static snapshot of the official default render state; no animation, movement, equipment or unlisted appearance is covered."
+      ],
+      "modelId": "vanillamobs:sheep_yellow_adult",
+      "supported": true
+    },
+    {
+      "conditions": {
+        "age": "adult",
+        "color": "lime",
+        "equipment": "none",
+        "headPitchDegrees": 0,
+        "headYawDegrees": 0,
+        "invisible": false,
+        "jeb": false,
+        "moving": false,
+        "pose": "standing",
+        "sheared": false,
+        "upsideDown": false,
+        "variant": "minecraft:sheep"
+      },
+      "display": {
+        "offsetX": 0,
+        "offsetY": 0.001,
+        "offsetZ": 0,
+        "scale": 2.5,
+        "yawOffsetDegrees": 180
+      },
+      "entityType": "SHEEP",
+      "limitations": [
+        "Official sheep wool colour multiplier baked into the PNG; alpha preserved.",
+        "Static snapshot of the official default render state; no animation, movement, equipment or unlisted appearance is covered."
+      ],
+      "modelId": "vanillamobs:sheep_lime_adult",
+      "supported": true
+    },
+    {
+      "conditions": {
+        "age": "adult",
+        "color": "pink",
+        "equipment": "none",
+        "headPitchDegrees": 0,
+        "headYawDegrees": 0,
+        "invisible": false,
+        "jeb": false,
+        "moving": false,
+        "pose": "standing",
+        "sheared": false,
+        "upsideDown": false,
+        "variant": "minecraft:sheep"
+      },
+      "display": {
+        "offsetX": 0,
+        "offsetY": 0.001,
+        "offsetZ": 0,
+        "scale": 2.5,
+        "yawOffsetDegrees": 180
+      },
+      "entityType": "SHEEP",
+      "limitations": [
+        "Official sheep wool colour multiplier baked into the PNG; alpha preserved.",
+        "Static snapshot of the official default render state; no animation, movement, equipment or unlisted appearance is covered."
+      ],
+      "modelId": "vanillamobs:sheep_pink_adult",
+      "supported": true
+    },
+    {
+      "conditions": {
+        "age": "adult",
+        "color": "gray",
+        "equipment": "none",
+        "headPitchDegrees": 0,
+        "headYawDegrees": 0,
+        "invisible": false,
+        "jeb": false,
+        "moving": false,
+        "pose": "standing",
+        "sheared": false,
+        "upsideDown": false,
+        "variant": "minecraft:sheep"
+      },
+      "display": {
+        "offsetX": 0,
+        "offsetY": 0.001,
+        "offsetZ": 0,
+        "scale": 2.5,
+        "yawOffsetDegrees": 180
+      },
+      "entityType": "SHEEP",
+      "limitations": [
+        "Official sheep wool colour multiplier baked into the PNG; alpha preserved.",
+        "Static snapshot of the official default render state; no animation, movement, equipment or unlisted appearance is covered."
+      ],
+      "modelId": "vanillamobs:sheep_gray_adult",
+      "supported": true
+    },
+    {
+      "conditions": {
+        "age": "adult",
+        "color": "light_gray",
+        "equipment": "none",
+        "headPitchDegrees": 0,
+        "headYawDegrees": 0,
+        "invisible": false,
+        "jeb": false,
+        "moving": false,
+        "pose": "standing",
+        "sheared": false,
+        "upsideDown": false,
+        "variant": "minecraft:sheep"
+      },
+      "display": {
+        "offsetX": 0,
+        "offsetY": 0.001,
+        "offsetZ": 0,
+        "scale": 2.5,
+        "yawOffsetDegrees": 180
+      },
+      "entityType": "SHEEP",
+      "limitations": [
+        "Official sheep wool colour multiplier baked into the PNG; alpha preserved.",
+        "Static snapshot of the official default render state; no animation, movement, equipment or unlisted appearance is covered."
+      ],
+      "modelId": "vanillamobs:sheep_light_gray_adult",
+      "supported": true
+    },
+    {
+      "conditions": {
+        "age": "adult",
+        "color": "cyan",
+        "equipment": "none",
+        "headPitchDegrees": 0,
+        "headYawDegrees": 0,
+        "invisible": false,
+        "jeb": false,
+        "moving": false,
+        "pose": "standing",
+        "sheared": false,
+        "upsideDown": false,
+        "variant": "minecraft:sheep"
+      },
+      "display": {
+        "offsetX": 0,
+        "offsetY": 0.001,
+        "offsetZ": 0,
+        "scale": 2.5,
+        "yawOffsetDegrees": 180
+      },
+      "entityType": "SHEEP",
+      "limitations": [
+        "Official sheep wool colour multiplier baked into the PNG; alpha preserved.",
+        "Static snapshot of the official default render state; no animation, movement, equipment or unlisted appearance is covered."
+      ],
+      "modelId": "vanillamobs:sheep_cyan_adult",
+      "supported": true
+    },
+    {
+      "conditions": {
+        "age": "adult",
+        "color": "purple",
+        "equipment": "none",
+        "headPitchDegrees": 0,
+        "headYawDegrees": 0,
+        "invisible": false,
+        "jeb": false,
+        "moving": false,
+        "pose": "standing",
+        "sheared": false,
+        "upsideDown": false,
+        "variant": "minecraft:sheep"
+      },
+      "display": {
+        "offsetX": 0,
+        "offsetY": 0.001,
+        "offsetZ": 0,
+        "scale": 2.5,
+        "yawOffsetDegrees": 180
+      },
+      "entityType": "SHEEP",
+      "limitations": [
+        "Official sheep wool colour multiplier baked into the PNG; alpha preserved.",
+        "Static snapshot of the official default render state; no animation, movement, equipment or unlisted appearance is covered."
+      ],
+      "modelId": "vanillamobs:sheep_purple_adult",
+      "supported": true
+    },
+    {
+      "conditions": {
+        "age": "adult",
+        "color": "blue",
+        "equipment": "none",
+        "headPitchDegrees": 0,
+        "headYawDegrees": 0,
+        "invisible": false,
+        "jeb": false,
+        "moving": false,
+        "pose": "standing",
+        "sheared": false,
+        "upsideDown": false,
+        "variant": "minecraft:sheep"
+      },
+      "display": {
+        "offsetX": 0,
+        "offsetY": 0.001,
+        "offsetZ": 0,
+        "scale": 2.5,
+        "yawOffsetDegrees": 180
+      },
+      "entityType": "SHEEP",
+      "limitations": [
+        "Official sheep wool colour multiplier baked into the PNG; alpha preserved.",
+        "Static snapshot of the official default render state; no animation, movement, equipment or unlisted appearance is covered."
+      ],
+      "modelId": "vanillamobs:sheep_blue_adult",
+      "supported": true
+    },
+    {
+      "conditions": {
+        "age": "adult",
+        "color": "brown",
+        "equipment": "none",
+        "headPitchDegrees": 0,
+        "headYawDegrees": 0,
+        "invisible": false,
+        "jeb": false,
+        "moving": false,
+        "pose": "standing",
+        "sheared": false,
+        "upsideDown": false,
+        "variant": "minecraft:sheep"
+      },
+      "display": {
+        "offsetX": 0,
+        "offsetY": 0.001,
+        "offsetZ": 0,
+        "scale": 2.5,
+        "yawOffsetDegrees": 180
+      },
+      "entityType": "SHEEP",
+      "limitations": [
+        "Official sheep wool colour multiplier baked into the PNG; alpha preserved.",
+        "Static snapshot of the official default render state; no animation, movement, equipment or unlisted appearance is covered."
+      ],
+      "modelId": "vanillamobs:sheep_brown_adult",
+      "supported": true
+    },
+    {
+      "conditions": {
+        "age": "adult",
+        "color": "green",
+        "equipment": "none",
+        "headPitchDegrees": 0,
+        "headYawDegrees": 0,
+        "invisible": false,
+        "jeb": false,
+        "moving": false,
+        "pose": "standing",
+        "sheared": false,
+        "upsideDown": false,
+        "variant": "minecraft:sheep"
+      },
+      "display": {
+        "offsetX": 0,
+        "offsetY": 0.001,
+        "offsetZ": 0,
+        "scale": 2.5,
+        "yawOffsetDegrees": 180
+      },
+      "entityType": "SHEEP",
+      "limitations": [
+        "Official sheep wool colour multiplier baked into the PNG; alpha preserved.",
+        "Static snapshot of the official default render state; no animation, movement, equipment or unlisted appearance is covered."
+      ],
+      "modelId": "vanillamobs:sheep_green_adult",
+      "supported": true
+    },
+    {
+      "conditions": {
+        "age": "adult",
+        "color": "red",
+        "equipment": "none",
+        "headPitchDegrees": 0,
+        "headYawDegrees": 0,
+        "invisible": false,
+        "jeb": false,
+        "moving": false,
+        "pose": "standing",
+        "sheared": false,
+        "upsideDown": false,
+        "variant": "minecraft:sheep"
+      },
+      "display": {
+        "offsetX": 0,
+        "offsetY": 0.001,
+        "offsetZ": 0,
+        "scale": 2.5,
+        "yawOffsetDegrees": 180
+      },
+      "entityType": "SHEEP",
+      "limitations": [
+        "Official sheep wool colour multiplier baked into the PNG; alpha preserved.",
+        "Static snapshot of the official default render state; no animation, movement, equipment or unlisted appearance is covered."
+      ],
+      "modelId": "vanillamobs:sheep_red_adult",
+      "supported": true
+    },
+    {
+      "conditions": {
+        "age": "adult",
+        "color": "black",
+        "equipment": "none",
+        "headPitchDegrees": 0,
+        "headYawDegrees": 0,
+        "invisible": false,
+        "jeb": false,
+        "moving": false,
+        "pose": "standing",
+        "sheared": false,
+        "upsideDown": false,
+        "variant": "minecraft:sheep"
+      },
+      "display": {
+        "offsetX": 0,
+        "offsetY": 0.001,
+        "offsetZ": 0,
+        "scale": 2.5,
+        "yawOffsetDegrees": 180
+      },
+      "entityType": "SHEEP",
+      "limitations": [
+        "Official sheep wool colour multiplier baked into the PNG; alpha preserved.",
+        "Static snapshot of the official default render state; no animation, movement, equipment or unlisted appearance is covered."
+      ],
+      "modelId": "vanillamobs:sheep_black_adult",
+      "supported": true
+    },
+    {
+      "conditions": {
+        "age": "adult",
+        "equipment": "none",
+        "headPitchDegrees": 0,
+        "headYawDegrees": 0,
+        "invisible": false,
+        "jeb": false,
+        "moving": false,
+        "pose": "standing",
+        "sheared": true,
+        "upsideDown": false,
+        "variant": "minecraft:sheep"
+      },
+      "display": {
+        "offsetX": 0,
+        "offsetY": 0.001,
+        "offsetZ": 0,
+        "scale": 2.5,
+        "yawOffsetDegrees": 180
+      },
+      "entityType": "SHEEP",
+      "limitations": [
+        "Sheared sheep has no wool layer; colour is intentionally unconstrained because the sheared body is the same for every dye.",
+        "Static snapshot of the official default render state; no animation, movement, equipment or unlisted appearance is covered."
+      ],
+      "modelId": "vanillamobs:sheep_adult_sheared",
+      "supported": true
+    },
+    {
+      "conditions": {
+        "age": "adult",
+        "color": "white",
+        "decor": "none",
+        "equipment": "none",
+        "headPitchDegrees": 0,
+        "headYawDegrees": 0,
+        "invisible": false,
+        "moving": false,
+        "pose": "standing",
+        "saddle": false,
+        "upsideDown": false,
+        "variant": "minecraft:white"
+      },
+      "display": {
+        "offsetX": 0,
+        "offsetY": 0.001,
+        "offsetZ": 0,
+        "scale": 2.5,
+        "yawOffsetDegrees": 180
+      },
+      "entityType": "LLAMA",
+      "limitations": [
+        "Official llama colour texture white.",
+        "Static snapshot of the official default render state; no animation, movement, equipment or unlisted appearance is covered."
+      ],
+      "modelId": "vanillamobs:llama_white_adult",
+      "supported": true
+    },
+    {
+      "conditions": {
+        "age": "adult",
+        "color": "brown",
+        "decor": "none",
+        "equipment": "none",
+        "headPitchDegrees": 0,
+        "headYawDegrees": 0,
+        "invisible": false,
+        "moving": false,
+        "pose": "standing",
+        "saddle": false,
+        "upsideDown": false,
+        "variant": "minecraft:brown"
+      },
+      "display": {
+        "offsetX": 0,
+        "offsetY": 0.001,
+        "offsetZ": 0,
+        "scale": 2.5,
+        "yawOffsetDegrees": 180
+      },
+      "entityType": "LLAMA",
+      "limitations": [
+        "Official llama colour texture brown.",
+        "Static snapshot of the official default render state; no animation, movement, equipment or unlisted appearance is covered."
+      ],
+      "modelId": "vanillamobs:llama_brown_adult",
+      "supported": true
+    },
+    {
+      "conditions": {
+        "age": "adult",
+        "color": "gray",
+        "decor": "none",
+        "equipment": "none",
+        "headPitchDegrees": 0,
+        "headYawDegrees": 0,
+        "invisible": false,
+        "moving": false,
+        "pose": "standing",
+        "saddle": false,
+        "upsideDown": false,
+        "variant": "minecraft:gray"
+      },
+      "display": {
+        "offsetX": 0,
+        "offsetY": 0.001,
+        "offsetZ": 0,
+        "scale": 2.5,
+        "yawOffsetDegrees": 180
+      },
+      "entityType": "LLAMA",
+      "limitations": [
+        "Official llama colour texture gray.",
+        "Static snapshot of the official default render state; no animation, movement, equipment or unlisted appearance is covered."
+      ],
+      "modelId": "vanillamobs:llama_gray_adult",
+      "supported": true
+    },
+    {
+      "conditions": {
+        "age": "adult",
+        "color": "white",
+        "decor": "none",
+        "equipment": "none",
+        "headPitchDegrees": 0,
+        "headYawDegrees": 0,
+        "invisible": false,
+        "moving": false,
+        "pose": "standing",
+        "saddle": false,
+        "upsideDown": false,
+        "variant": "minecraft:white"
+      },
+      "display": {
+        "offsetX": 0,
+        "offsetY": 0.001,
+        "offsetZ": 0,
+        "scale": 2.5,
+        "yawOffsetDegrees": 180
+      },
+      "entityType": "TRADER_LLAMA",
+      "limitations": [
+        "Official llama colour texture white.",
+        "Static snapshot of the official default render state; no animation, movement, equipment or unlisted appearance is covered."
+      ],
+      "modelId": "vanillamobs:trader_llama_white_adult",
+      "supported": true
+    },
+    {
+      "conditions": {
+        "age": "adult",
+        "color": "brown",
+        "decor": "none",
+        "equipment": "none",
+        "headPitchDegrees": 0,
+        "headYawDegrees": 0,
+        "invisible": false,
+        "moving": false,
+        "pose": "standing",
+        "saddle": false,
+        "upsideDown": false,
+        "variant": "minecraft:brown"
+      },
+      "display": {
+        "offsetX": 0,
+        "offsetY": 0.001,
+        "offsetZ": 0,
+        "scale": 2.5,
+        "yawOffsetDegrees": 180
+      },
+      "entityType": "TRADER_LLAMA",
+      "limitations": [
+        "Official llama colour texture brown.",
+        "Static snapshot of the official default render state; no animation, movement, equipment or unlisted appearance is covered."
+      ],
+      "modelId": "vanillamobs:trader_llama_brown_adult",
+      "supported": true
+    },
+    {
+      "conditions": {
+        "age": "adult",
+        "color": "gray",
+        "decor": "none",
+        "equipment": "none",
+        "headPitchDegrees": 0,
+        "headYawDegrees": 0,
+        "invisible": false,
+        "moving": false,
+        "pose": "standing",
+        "saddle": false,
+        "upsideDown": false,
+        "variant": "minecraft:gray"
+      },
+      "display": {
+        "offsetX": 0,
+        "offsetY": 0.001,
+        "offsetZ": 0,
+        "scale": 2.5,
+        "yawOffsetDegrees": 180
+      },
+      "entityType": "TRADER_LLAMA",
+      "limitations": [
+        "Official llama colour texture gray.",
+        "Static snapshot of the official default render state; no animation, movement, equipment or unlisted appearance is covered."
+      ],
+      "modelId": "vanillamobs:trader_llama_gray_adult",
+      "supported": true
+    },
+    {
+      "conditions": {
+        "age": "adult",
+        "equipment": "none",
+        "headPitchDegrees": 0,
+        "headYawDegrees": 0,
+        "invisible": false,
+        "moving": false,
+        "pose": "standing",
+        "upsideDown": false,
+        "variant": "minecraft:white"
+      },
+      "display": {
+        "offsetX": 0,
+        "offsetY": 0.001,
+        "offsetZ": 0,
+        "scale": 2.5,
+        "yawOffsetDegrees": 180
+      },
+      "entityType": "RABBIT",
+      "limitations": [
+        "Official rabbit variant texture white.",
+        "Static snapshot of the official default render state; no animation, movement, equipment or unlisted appearance is covered."
+      ],
+      "modelId": "vanillamobs:rabbit_white_adult",
+      "supported": true
+    },
+    {
+      "conditions": {
+        "age": "adult",
+        "equipment": "none",
+        "headPitchDegrees": 0,
+        "headYawDegrees": 0,
+        "invisible": false,
+        "moving": false,
+        "pose": "standing",
+        "upsideDown": false,
+        "variant": "minecraft:black"
+      },
+      "display": {
+        "offsetX": 0,
+        "offsetY": 0.001,
+        "offsetZ": 0,
+        "scale": 2.5,
+        "yawOffsetDegrees": 180
+      },
+      "entityType": "RABBIT",
+      "limitations": [
+        "Official rabbit variant texture black.",
+        "Static snapshot of the official default render state; no animation, movement, equipment or unlisted appearance is covered."
+      ],
+      "modelId": "vanillamobs:rabbit_black_adult",
+      "supported": true
+    },
+    {
+      "conditions": {
+        "age": "adult",
+        "equipment": "none",
+        "headPitchDegrees": 0,
+        "headYawDegrees": 0,
+        "invisible": false,
+        "moving": false,
+        "pose": "standing",
+        "upsideDown": false,
+        "variant": "minecraft:white_splotched"
+      },
+      "display": {
+        "offsetX": 0,
+        "offsetY": 0.001,
+        "offsetZ": 0,
+        "scale": 2.5,
+        "yawOffsetDegrees": 180
+      },
+      "entityType": "RABBIT",
+      "limitations": [
+        "Official rabbit variant texture white_splotched.",
+        "Static snapshot of the official default render state; no animation, movement, equipment or unlisted appearance is covered."
+      ],
+      "modelId": "vanillamobs:rabbit_white_splotched_adult",
+      "supported": true
+    },
+    {
+      "conditions": {
+        "age": "adult",
+        "equipment": "none",
+        "headPitchDegrees": 0,
+        "headYawDegrees": 0,
+        "invisible": false,
+        "moving": false,
+        "pose": "standing",
+        "upsideDown": false,
+        "variant": "minecraft:gold"
+      },
+      "display": {
+        "offsetX": 0,
+        "offsetY": 0.001,
+        "offsetZ": 0,
+        "scale": 2.5,
+        "yawOffsetDegrees": 180
+      },
+      "entityType": "RABBIT",
+      "limitations": [
+        "Official rabbit variant texture gold.",
+        "Static snapshot of the official default render state; no animation, movement, equipment or unlisted appearance is covered."
+      ],
+      "modelId": "vanillamobs:rabbit_gold_adult",
+      "supported": true
+    },
+    {
+      "conditions": {
+        "age": "adult",
+        "equipment": "none",
+        "headPitchDegrees": 0,
+        "headYawDegrees": 0,
+        "invisible": false,
+        "moving": false,
+        "pose": "standing",
+        "upsideDown": false,
+        "variant": "minecraft:salt"
+      },
+      "display": {
+        "offsetX": 0,
+        "offsetY": 0.001,
+        "offsetZ": 0,
+        "scale": 2.5,
+        "yawOffsetDegrees": 180
+      },
+      "entityType": "RABBIT",
+      "limitations": [
+        "Official rabbit variant texture salt.",
+        "Static snapshot of the official default render state; no animation, movement, equipment or unlisted appearance is covered."
+      ],
+      "modelId": "vanillamobs:rabbit_salt_adult",
+      "supported": true
+    },
+    {
+      "conditions": {
+        "age": "adult",
+        "equipment": "none",
+        "headPitchDegrees": 0,
+        "headYawDegrees": 0,
+        "heldItem": "none",
+        "invisible": false,
+        "moving": false,
+        "pose": "standing",
+        "upsideDown": false,
+        "variant": "minecraft:lazy"
+      },
+      "display": {
+        "offsetX": 0,
+        "offsetY": 0.001,
+        "offsetZ": 0,
+        "scale": 2.5,
+        "yawOffsetDegrees": 180
+      },
+      "entityType": "PANDA",
+      "limitations": [
+        "Official panda gene texture lazy.",
+        "Static snapshot of the official default render state; no animation, movement, equipment or unlisted appearance is covered."
+      ],
+      "modelId": "vanillamobs:panda_lazy_adult",
+      "supported": true
+    },
+    {
+      "conditions": {
+        "age": "adult",
+        "equipment": "none",
+        "headPitchDegrees": 0,
+        "headYawDegrees": 0,
+        "heldItem": "none",
+        "invisible": false,
+        "moving": false,
+        "pose": "standing",
+        "upsideDown": false,
+        "variant": "minecraft:worried"
+      },
+      "display": {
+        "offsetX": 0,
+        "offsetY": 0.001,
+        "offsetZ": 0,
+        "scale": 2.5,
+        "yawOffsetDegrees": 180
+      },
+      "entityType": "PANDA",
+      "limitations": [
+        "Official panda gene texture worried.",
+        "Static snapshot of the official default render state; no animation, movement, equipment or unlisted appearance is covered."
+      ],
+      "modelId": "vanillamobs:panda_worried_adult",
+      "supported": true
+    },
+    {
+      "conditions": {
+        "age": "adult",
+        "equipment": "none",
+        "headPitchDegrees": 0,
+        "headYawDegrees": 0,
+        "heldItem": "none",
+        "invisible": false,
+        "moving": false,
+        "pose": "standing",
+        "upsideDown": false,
+        "variant": "minecraft:playful"
+      },
+      "display": {
+        "offsetX": 0,
+        "offsetY": 0.001,
+        "offsetZ": 0,
+        "scale": 2.5,
+        "yawOffsetDegrees": 180
+      },
+      "entityType": "PANDA",
+      "limitations": [
+        "Official panda gene texture playful.",
+        "Static snapshot of the official default render state; no animation, movement, equipment or unlisted appearance is covered."
+      ],
+      "modelId": "vanillamobs:panda_playful_adult",
+      "supported": true
+    },
+    {
+      "conditions": {
+        "age": "adult",
+        "equipment": "none",
+        "headPitchDegrees": 0,
+        "headYawDegrees": 0,
+        "heldItem": "none",
+        "invisible": false,
+        "moving": false,
+        "pose": "standing",
+        "upsideDown": false,
+        "variant": "minecraft:brown"
+      },
+      "display": {
+        "offsetX": 0,
+        "offsetY": 0.001,
+        "offsetZ": 0,
+        "scale": 2.5,
+        "yawOffsetDegrees": 180
+      },
+      "entityType": "PANDA",
+      "limitations": [
+        "Official panda gene texture brown.",
+        "Static snapshot of the official default render state; no animation, movement, equipment or unlisted appearance is covered."
+      ],
+      "modelId": "vanillamobs:panda_brown_adult",
+      "supported": true
+    },
+    {
+      "conditions": {
+        "age": "adult",
+        "equipment": "none",
+        "headPitchDegrees": 0,
+        "headYawDegrees": 0,
+        "heldItem": "none",
+        "invisible": false,
+        "moving": false,
+        "pose": "standing",
+        "upsideDown": false,
+        "variant": "minecraft:weak"
+      },
+      "display": {
+        "offsetX": 0,
+        "offsetY": 0.001,
+        "offsetZ": 0,
+        "scale": 2.5,
+        "yawOffsetDegrees": 180
+      },
+      "entityType": "PANDA",
+      "limitations": [
+        "Official panda gene texture weak.",
+        "Static snapshot of the official default render state; no animation, movement, equipment or unlisted appearance is covered."
+      ],
+      "modelId": "vanillamobs:panda_weak_adult",
+      "supported": true
+    },
+    {
+      "conditions": {
+        "age": "adult",
+        "equipment": "none",
+        "headPitchDegrees": 0,
+        "headYawDegrees": 0,
+        "heldItem": "none",
+        "invisible": false,
+        "moving": false,
+        "pose": "standing",
+        "upsideDown": false,
+        "variant": "minecraft:aggressive"
+      },
+      "display": {
+        "offsetX": 0,
+        "offsetY": 0.001,
+        "offsetZ": 0,
+        "scale": 2.5,
+        "yawOffsetDegrees": 180
+      },
+      "entityType": "PANDA",
+      "limitations": [
+        "Official panda gene texture aggressive.",
+        "Static snapshot of the official default render state; no animation, movement, equipment or unlisted appearance is covered."
+      ],
+      "modelId": "vanillamobs:panda_aggressive_adult",
+      "supported": true
+    },
+    {
+      "conditions": {
+        "age": "adult",
+        "baseColor": "white",
+        "equipment": "none",
+        "headPitchDegrees": 0,
+        "headYawDegrees": 0,
+        "invisible": false,
+        "moving": false,
+        "pattern": "sunstreak",
+        "patternColor": "white",
+        "pose": "standing",
+        "shape": "small",
+        "upsideDown": false,
+        "variant": "minecraft:tropical_fish"
+      },
+      "display": {
+        "offsetX": 0,
+        "offsetY": 0.001,
+        "offsetZ": 0,
+        "scale": 2.5,
+        "yawOffsetDegrees": 180
+      },
+      "entityType": "TROPICAL_FISH",
+      "limitations": [
+        "Official small/large tropical-fish body and pattern layers, tinted with the official white dye colour.",
+        "Static snapshot of the official default render state; no animation, movement, equipment or unlisted appearance is covered."
+      ],
+      "modelId": "vanillamobs:tropical_fish_small_sunstreak_white_white_adult",
+      "supported": true
+    },
+    {
+      "conditions": {
+        "age": "adult",
+        "baseColor": "white",
+        "equipment": "none",
+        "headPitchDegrees": 0,
+        "headYawDegrees": 0,
+        "invisible": false,
+        "moving": false,
+        "pattern": "snooper",
+        "patternColor": "white",
+        "pose": "standing",
+        "shape": "small",
+        "upsideDown": false,
+        "variant": "minecraft:tropical_fish"
+      },
+      "display": {
+        "offsetX": 0,
+        "offsetY": 0.001,
+        "offsetZ": 0,
+        "scale": 2.5,
+        "yawOffsetDegrees": 180
+      },
+      "entityType": "TROPICAL_FISH",
+      "limitations": [
+        "Official small/large tropical-fish body and pattern layers, tinted with the official white dye colour.",
+        "Static snapshot of the official default render state; no animation, movement, equipment or unlisted appearance is covered."
+      ],
+      "modelId": "vanillamobs:tropical_fish_small_snooper_white_white_adult",
+      "supported": true
+    },
+    {
+      "conditions": {
+        "age": "adult",
+        "baseColor": "white",
+        "equipment": "none",
+        "headPitchDegrees": 0,
+        "headYawDegrees": 0,
+        "invisible": false,
+        "moving": false,
+        "pattern": "dasher",
+        "patternColor": "white",
+        "pose": "standing",
+        "shape": "small",
+        "upsideDown": false,
+        "variant": "minecraft:tropical_fish"
+      },
+      "display": {
+        "offsetX": 0,
+        "offsetY": 0.001,
+        "offsetZ": 0,
+        "scale": 2.5,
+        "yawOffsetDegrees": 180
+      },
+      "entityType": "TROPICAL_FISH",
+      "limitations": [
+        "Official small/large tropical-fish body and pattern layers, tinted with the official white dye colour.",
+        "Static snapshot of the official default render state; no animation, movement, equipment or unlisted appearance is covered."
+      ],
+      "modelId": "vanillamobs:tropical_fish_small_dasher_white_white_adult",
+      "supported": true
+    },
+    {
+      "conditions": {
+        "age": "adult",
+        "baseColor": "white",
+        "equipment": "none",
+        "headPitchDegrees": 0,
+        "headYawDegrees": 0,
+        "invisible": false,
+        "moving": false,
+        "pattern": "brinely",
+        "patternColor": "white",
+        "pose": "standing",
+        "shape": "small",
+        "upsideDown": false,
+        "variant": "minecraft:tropical_fish"
+      },
+      "display": {
+        "offsetX": 0,
+        "offsetY": 0.001,
+        "offsetZ": 0,
+        "scale": 2.5,
+        "yawOffsetDegrees": 180
+      },
+      "entityType": "TROPICAL_FISH",
+      "limitations": [
+        "Official small/large tropical-fish body and pattern layers, tinted with the official white dye colour.",
+        "Static snapshot of the official default render state; no animation, movement, equipment or unlisted appearance is covered."
+      ],
+      "modelId": "vanillamobs:tropical_fish_small_brinely_white_white_adult",
+      "supported": true
+    },
+    {
+      "conditions": {
+        "age": "adult",
+        "baseColor": "white",
+        "equipment": "none",
+        "headPitchDegrees": 0,
+        "headYawDegrees": 0,
+        "invisible": false,
+        "moving": false,
+        "pattern": "spotty",
+        "patternColor": "white",
+        "pose": "standing",
+        "shape": "small",
+        "upsideDown": false,
+        "variant": "minecraft:tropical_fish"
+      },
+      "display": {
+        "offsetX": 0,
+        "offsetY": 0.001,
+        "offsetZ": 0,
+        "scale": 2.5,
+        "yawOffsetDegrees": 180
+      },
+      "entityType": "TROPICAL_FISH",
+      "limitations": [
+        "Official small/large tropical-fish body and pattern layers, tinted with the official white dye colour.",
+        "Static snapshot of the official default render state; no animation, movement, equipment or unlisted appearance is covered."
+      ],
+      "modelId": "vanillamobs:tropical_fish_small_spotty_white_white_adult",
+      "supported": true
+    },
+    {
+      "conditions": {
+        "age": "adult",
+        "baseColor": "white",
+        "equipment": "none",
+        "headPitchDegrees": 0,
+        "headYawDegrees": 0,
+        "invisible": false,
+        "moving": false,
+        "pattern": "flopper",
+        "patternColor": "white",
+        "pose": "standing",
+        "shape": "large",
+        "upsideDown": false,
+        "variant": "minecraft:tropical_fish"
+      },
+      "display": {
+        "offsetX": 0,
+        "offsetY": 0.001,
+        "offsetZ": 0,
+        "scale": 2.5,
+        "yawOffsetDegrees": 180
+      },
+      "entityType": "TROPICAL_FISH",
+      "limitations": [
+        "Official small/large tropical-fish body and pattern layers, tinted with the official white dye colour.",
+        "Static snapshot of the official default render state; no animation, movement, equipment or unlisted appearance is covered."
+      ],
+      "modelId": "vanillamobs:tropical_fish_large_flopper_white_white_adult",
+      "supported": true
+    },
+    {
+      "conditions": {
+        "age": "adult",
+        "baseColor": "white",
+        "equipment": "none",
+        "headPitchDegrees": 0,
+        "headYawDegrees": 0,
+        "invisible": false,
+        "moving": false,
+        "pattern": "stripey",
+        "patternColor": "white",
+        "pose": "standing",
+        "shape": "large",
+        "upsideDown": false,
+        "variant": "minecraft:tropical_fish"
+      },
+      "display": {
+        "offsetX": 0,
+        "offsetY": 0.001,
+        "offsetZ": 0,
+        "scale": 2.5,
+        "yawOffsetDegrees": 180
+      },
+      "entityType": "TROPICAL_FISH",
+      "limitations": [
+        "Official small/large tropical-fish body and pattern layers, tinted with the official white dye colour.",
+        "Static snapshot of the official default render state; no animation, movement, equipment or unlisted appearance is covered."
+      ],
+      "modelId": "vanillamobs:tropical_fish_large_stripey_white_white_adult",
+      "supported": true
+    },
+    {
+      "conditions": {
+        "age": "adult",
+        "baseColor": "white",
+        "equipment": "none",
+        "headPitchDegrees": 0,
+        "headYawDegrees": 0,
+        "invisible": false,
+        "moving": false,
+        "pattern": "glitter",
+        "patternColor": "white",
+        "pose": "standing",
+        "shape": "large",
+        "upsideDown": false,
+        "variant": "minecraft:tropical_fish"
+      },
+      "display": {
+        "offsetX": 0,
+        "offsetY": 0.001,
+        "offsetZ": 0,
+        "scale": 2.5,
+        "yawOffsetDegrees": 180
+      },
+      "entityType": "TROPICAL_FISH",
+      "limitations": [
+        "Official small/large tropical-fish body and pattern layers, tinted with the official white dye colour.",
+        "Static snapshot of the official default render state; no animation, movement, equipment or unlisted appearance is covered."
+      ],
+      "modelId": "vanillamobs:tropical_fish_large_glitter_white_white_adult",
+      "supported": true
+    },
+    {
+      "conditions": {
+        "age": "adult",
+        "baseColor": "white",
+        "equipment": "none",
+        "headPitchDegrees": 0,
+        "headYawDegrees": 0,
+        "invisible": false,
+        "moving": false,
+        "pattern": "blockfish",
+        "patternColor": "white",
+        "pose": "standing",
+        "shape": "large",
+        "upsideDown": false,
+        "variant": "minecraft:tropical_fish"
+      },
+      "display": {
+        "offsetX": 0,
+        "offsetY": 0.001,
+        "offsetZ": 0,
+        "scale": 2.5,
+        "yawOffsetDegrees": 180
+      },
+      "entityType": "TROPICAL_FISH",
+      "limitations": [
+        "Official small/large tropical-fish body and pattern layers, tinted with the official white dye colour.",
+        "Static snapshot of the official default render state; no animation, movement, equipment or unlisted appearance is covered."
+      ],
+      "modelId": "vanillamobs:tropical_fish_large_blockfish_white_white_adult",
+      "supported": true
+    },
+    {
+      "conditions": {
+        "age": "adult",
+        "baseColor": "white",
+        "equipment": "none",
+        "headPitchDegrees": 0,
+        "headYawDegrees": 0,
+        "invisible": false,
+        "moving": false,
+        "pattern": "betty",
+        "patternColor": "white",
+        "pose": "standing",
+        "shape": "large",
+        "upsideDown": false,
+        "variant": "minecraft:tropical_fish"
+      },
+      "display": {
+        "offsetX": 0,
+        "offsetY": 0.001,
+        "offsetZ": 0,
+        "scale": 2.5,
+        "yawOffsetDegrees": 180
+      },
+      "entityType": "TROPICAL_FISH",
+      "limitations": [
+        "Official small/large tropical-fish body and pattern layers, tinted with the official white dye colour.",
+        "Static snapshot of the official default render state; no animation, movement, equipment or unlisted appearance is covered."
+      ],
+      "modelId": "vanillamobs:tropical_fish_large_betty_white_white_adult",
+      "supported": true
+    },
+    {
+      "conditions": {
+        "age": "adult",
+        "baseColor": "white",
+        "equipment": "none",
+        "headPitchDegrees": 0,
+        "headYawDegrees": 0,
+        "invisible": false,
+        "moving": false,
+        "pattern": "clayfish",
+        "patternColor": "white",
+        "pose": "standing",
+        "shape": "large",
+        "upsideDown": false,
+        "variant": "minecraft:tropical_fish"
+      },
+      "display": {
+        "offsetX": 0,
+        "offsetY": 0.001,
+        "offsetZ": 0,
+        "scale": 2.5,
+        "yawOffsetDegrees": 180
+      },
+      "entityType": "TROPICAL_FISH",
+      "limitations": [
+        "Official small/large tropical-fish body and pattern layers, tinted with the official white dye colour.",
+        "Static snapshot of the official default render state; no animation, movement, equipment or unlisted appearance is covered."
+      ],
+      "modelId": "vanillamobs:tropical_fish_large_clayfish_white_white_adult",
+      "supported": true
+    },
+    {
+      "conditions": {
+        "age": "adult",
+        "equipment": "none",
+        "headPitchDegrees": 0,
+        "headYawDegrees": 0,
+        "invisible": false,
+        "jeb": true,
+        "moving": false,
+        "pose": "standing",
+        "sheared": false,
+        "upsideDown": false,
+        "variant": "minecraft:sheep"
+      },
+      "display": {
+        "offsetX": 0,
+        "offsetY": 0.001,
+        "offsetZ": 0,
+        "scale": 2.5,
+        "yawOffsetDegrees": 180
+      },
+      "entityType": "SHEEP",
+      "limitations": [
+        "jeb_ rainbow animation is not representable by a static model."
+      ],
+      "modelId": "vanillamobs:sheep_adult_jeb",
+      "supported": false
+    }
+  ],
+  "namespace": "vanillamobs",
+  "schema": 1
+}

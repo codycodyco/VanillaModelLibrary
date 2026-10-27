@@ -1,0 +1,17 @@
+name: VanillaModelLibrary
+version: '${version}'
+main: dev.cody.vanillamobs.VanillaModelLibraryPlugin
+api-version: '26.2'
+description: Installs and selects the vanillamobs static models through RP Engine.
+author: DSH
+depend: [RPEngine]
+commands:
+  vanillamobs:
+    description: Inspect, validate or reload the vanillamobs catalog.
+    usage: /<command> <status|verify|reload|selftest|items>
+    aliases: [vml]
+    permission: vanillamobs.admin
+permissions:
+  vanillamobs.admin:
+    description: Use /vanillamobs and manage the installed asset package.
+    default: op
